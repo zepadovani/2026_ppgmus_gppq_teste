@@ -2538,7 +2538,11 @@
         "Docente"
       ],
       "id_lattes": "9482569745798601",
-      "grupos": []
+      "grupos": [
+        "6555194010132305",
+        "3975186280577145",
+        "1957139244846306"
+      ]
     },
     {
       "id": "p_2195964474920848",
@@ -4208,7 +4212,8 @@
         "Mônica Pedrosa de Pádua",
         "Luciana Monteiro de Castro"
       ],
-      "ano_formacao": "2003"
+      "ano_formacao": "2003",
+      "lider_emu": true
     },
     {
       "id": "5862938697246050",
@@ -4219,7 +4224,8 @@
       "lideres": [
         "José Henrique Padovani Velloso"
       ],
-      "ano_formacao": "2021"
+      "ano_formacao": "2021",
+      "lider_emu": true
     },
     {
       "id": "9729607003871586",
@@ -4231,7 +4237,8 @@
         "Renato Tocantins Sampaio",
         "Cybelle Maria Veiga Loureiro"
       ],
-      "ano_formacao": "2018"
+      "ano_formacao": "2018",
+      "lider_emu": true
     },
     {
       "id": "0311678406381967",
@@ -4243,7 +4250,8 @@
         "Fernando Antonio Mencarelli",
         "Mônica Medeiros Ribeiro"
       ],
-      "ano_formacao": "2012"
+      "ano_formacao": "2012",
+      "lider_emu": false
     },
     {
       "id": "1957410993856359",
@@ -4255,7 +4263,8 @@
         "Flavio Terrigno Barbeitas",
         "Eduardo Campolina"
       ],
-      "ano_formacao": "2014"
+      "ano_formacao": "2014",
+      "lider_emu": true
     },
     {
       "id": "4452007973688041",
@@ -4267,7 +4276,8 @@
         "Mauricio Alves Loureiro",
         "Frederico Gonçalves Pedrosa"
       ],
-      "ano_formacao": "1998"
+      "ano_formacao": "1998",
+      "lider_emu": true
     },
     {
       "id": "3752642736283684",
@@ -4279,7 +4289,8 @@
         "Elisângela Campos Damasceno",
         "Vinícius Dias de Carvalho"
       ],
-      "ano_formacao": "2018"
+      "ano_formacao": "2018",
+      "lider_emu": false
     },
     {
       "id": "7970036744489954",
@@ -4291,7 +4302,8 @@
         "Marco Antonio de Oliveira Domingues",
         "Anderson Luiz Souza Moreira"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": false
     },
     {
       "id": "9019544403549700",
@@ -4303,7 +4315,8 @@
         "Bruno Amaral Machado",
         "Cristina Maria Zackseski"
       ],
-      "ano_formacao": "2007"
+      "ano_formacao": "2007",
+      "lider_emu": false
     },
     {
       "id": "2214253176536391",
@@ -4315,7 +4328,8 @@
         "Silvia Layara Floriani Andersen",
         "Pollyana Caetano Ribeiro Fernandes"
       ],
-      "ano_formacao": "2013"
+      "ano_formacao": "2013",
+      "lider_emu": false
     },
     {
       "id": "8809695576908134",
@@ -4327,7 +4341,8 @@
         "Sonia Maria Soares Ferreira",
         "Kristiana Cerqueira Mousinho"
       ],
-      "ano_formacao": "2012"
+      "ano_formacao": "2012",
+      "lider_emu": false
     },
     {
       "id": "1676272675274398",
@@ -4339,7 +4354,8 @@
         "Odalice de Castro Silva",
         "Isabel Maria da Cruz Lousada"
       ],
-      "ano_formacao": "2006"
+      "ano_formacao": "2006",
+      "lider_emu": false
     },
     {
       "id": "0164605867496187",
@@ -4350,7 +4366,8 @@
       "lideres": [
         "Paulo Nazareno Maia Sampaio"
       ],
-      "ano_formacao": "2004"
+      "ano_formacao": "2004",
+      "lider_emu": false
     },
     {
       "id": "2178422134545563",
@@ -4361,7 +4378,8 @@
       "lideres": [
         "Paulo Caetano da Silva"
       ],
-      "ano_formacao": "2002"
+      "ano_formacao": "2002",
+      "lider_emu": false
     },
     {
       "id": "3456831255539641",
@@ -4372,7 +4390,8 @@
       "lideres": [
         "Maria Betânia Parizzi Fonseca"
       ],
-      "ano_formacao": "2021"
+      "ano_formacao": "2021",
+      "lider_emu": true
     },
     {
       "id": "0356347582179974",
@@ -4383,7 +4402,8 @@
       "lideres": [
         "Fausto Borém"
       ],
-      "ano_formacao": "1994"
+      "ano_formacao": "1994",
+      "lider_emu": true
     },
     {
       "id": "0817494927918913",
@@ -4395,7 +4415,8 @@
         "Thaïs Flores Nogueira Diniz",
         "Claus Herbert Clüver"
       ],
-      "ano_formacao": "2005"
+      "ano_formacao": "2005",
+      "lider_emu": false
     },
     {
       "id": "3263487285153559",
@@ -4406,7 +4427,8 @@
       "lideres": [
         "Alfredo Werney Lima Torres"
       ],
-      "ano_formacao": "2026"
+      "ano_formacao": "2026",
+      "lider_emu": false
     },
     {
       "id": "5494091059134822",
@@ -4418,7 +4440,8 @@
         "Flavio Terrigno Barbeitas",
         "Edite Maria Oliveira da Rocha"
       ],
-      "ano_formacao": "2009"
+      "ano_formacao": "2009",
+      "lider_emu": true
     },
     {
       "id": "5585943358838943",
@@ -4430,7 +4453,8 @@
         "Edite Maria Oliveira da Rocha",
         "Mauricio Freire Garcia"
       ],
-      "ano_formacao": "2016"
+      "ano_formacao": "2016",
+      "lider_emu": true
     },
     {
       "id": "8533220924155139",
@@ -4441,7 +4465,8 @@
       "lideres": [
         "Aline Azevedo Costa"
       ],
-      "ano_formacao": "2021"
+      "ano_formacao": "2021",
+      "lider_emu": true
     },
     {
       "id": "1116471307532568",
@@ -4453,7 +4478,8 @@
         "Cybelle Maria Veiga Loureiro",
         "Verônica Magalhães Rosário"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": true
     },
     {
       "id": "9566256578001909",
@@ -4465,7 +4491,8 @@
         "Varley Teoldo da Costa",
         "Franco Noce"
       ],
-      "ano_formacao": "1991"
+      "ano_formacao": "1991",
+      "lider_emu": false
     },
     {
       "id": "0183614706882215",
@@ -4477,7 +4504,8 @@
         "Ingrid Emma Perle Barancoski",
         "Fernando Crespo Corvisier"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": false
     },
     {
       "id": "6602886355944152",
@@ -4488,7 +4516,8 @@
       "lideres": [
         "Ana Cláudia de Assis"
       ],
-      "ano_formacao": "2006"
+      "ano_formacao": "2006",
+      "lider_emu": true
     },
     {
       "id": "2810295441441946",
@@ -4499,7 +4528,8 @@
       "lideres": [
         "Fernando de Oliveira Magre"
       ],
-      "ano_formacao": "2024"
+      "ano_formacao": "2024",
+      "lider_emu": false
     },
     {
       "id": "4713280573582874",
@@ -4511,7 +4541,8 @@
         "Mauro Rodrigues",
         "Pedro Francisco Mota Júnior"
       ],
-      "ano_formacao": "2018"
+      "ano_formacao": "2018",
+      "lider_emu": true
     },
     {
       "id": "0794335057715945",
@@ -4523,7 +4554,8 @@
         "Mauro Rodrigues",
         "Clifford Hill Korman"
       ],
-      "ano_formacao": "2014"
+      "ano_formacao": "2014",
+      "lider_emu": true
     },
     {
       "id": "3480750322645009",
@@ -4534,7 +4566,8 @@
       "lideres": [
         "Ernani de Castro Maletta"
       ],
-      "ano_formacao": "2012"
+      "ano_formacao": "2012",
+      "lider_emu": false
     },
     {
       "id": "4888210207963871",
@@ -4546,7 +4579,8 @@
         "Rodrigo Heringer Costa",
         "André Machado Queiroz"
       ],
-      "ano_formacao": "2024"
+      "ano_formacao": "2024",
+      "lider_emu": true
     },
     {
       "id": "4141173810314606",
@@ -4558,7 +4592,8 @@
         "Viviane Louro",
         "Gabriel Henrique Albuquerque Lins"
       ],
-      "ano_formacao": "2023"
+      "ano_formacao": "2023",
+      "lider_emu": false
     },
     {
       "id": "4015393738821291",
@@ -4570,7 +4605,8 @@
         "Delmary Vasconcelos de Abreu",
         "Maria Helena Menna Barreto Abrahão"
       ],
-      "ano_formacao": "2013"
+      "ano_formacao": "2013",
+      "lider_emu": false
     },
     {
       "id": "0842695934578619",
@@ -4581,7 +4617,8 @@
       "lideres": [
         "Sérgio de Figueiredo Rocha"
       ],
-      "ano_formacao": "2016"
+      "ano_formacao": "2016",
+      "lider_emu": false
     },
     {
       "id": "6809324778434511",
@@ -4592,7 +4629,8 @@
       "lideres": [
         "Antonio Carlos Guimarães"
       ],
-      "ano_formacao": "2019"
+      "ano_formacao": "2019",
+      "lider_emu": true
     },
     {
       "id": "6218341658462833",
@@ -4603,7 +4641,8 @@
       "lideres": [
         "Raul Costa Davila"
       ],
-      "ano_formacao": "2017"
+      "ano_formacao": "2017",
+      "lider_emu": false
     },
     {
       "id": "2133309387496330",
@@ -4615,7 +4654,8 @@
         "Marcia Ermelindo Taborda",
         "Antonio Carlos Guimarães"
       ],
-      "ano_formacao": "2006"
+      "ano_formacao": "2006",
+      "lider_emu": true
     },
     {
       "id": "1571130579528701",
@@ -4627,7 +4667,8 @@
         "Carla de Moura Martins",
         "Emmanuela Ferreira de Lima"
       ],
-      "ano_formacao": "2013"
+      "ano_formacao": "2013",
+      "lider_emu": false
     },
     {
       "id": "3560330475534273",
@@ -4638,7 +4679,8 @@
       "lideres": [
         "Nora Ney Santos Barcelos"
       ],
-      "ano_formacao": "2014"
+      "ano_formacao": "2014",
+      "lider_emu": false
     },
     {
       "id": "4199479350648124",
@@ -4649,7 +4691,8 @@
       "lideres": [
         "Angela Maria Ribeiro"
       ],
-      "ano_formacao": "1990"
+      "ano_formacao": "1990",
+      "lider_emu": false
     },
     {
       "id": "8511193046710105",
@@ -4661,7 +4704,8 @@
         "Arnon Sávio Reis de Oliveira",
         "Domingos Sávio Lins Brandão"
       ],
-      "ano_formacao": "2010"
+      "ano_formacao": "2010",
+      "lider_emu": true
     },
     {
       "id": "0077977989261277",
@@ -4672,7 +4716,8 @@
       "lideres": [
         "Sergio Freire Garcia"
       ],
-      "ano_formacao": "2004"
+      "ano_formacao": "2004",
+      "lider_emu": true
     },
     {
       "id": "1271776309337385",
@@ -4684,7 +4729,8 @@
         "Larissa Albuquerque de Alencar",
         "Sheila Cordeiro Mota"
       ],
-      "ano_formacao": "2023"
+      "ano_formacao": "2023",
+      "lider_emu": false
     },
     {
       "id": "7849812725642119",
@@ -4696,7 +4742,8 @@
         "Ana Cristina Gonçalves de ABREU SOUZA",
         "Ronaldo Auad Moreira"
       ],
-      "ano_formacao": "2017"
+      "ano_formacao": "2017",
+      "lider_emu": false
     },
     {
       "id": "3780476205993735",
@@ -4708,7 +4755,8 @@
         "Vilma Lúcia Macagnan Carvalho",
         "Ana Carolina Correia Almeida"
       ],
-      "ano_formacao": "2024"
+      "ano_formacao": "2024",
+      "lider_emu": false
     },
     {
       "id": "5008796127366033",
@@ -4720,7 +4768,8 @@
         "Helena Lopes da Silva",
         "Jussara Rodrigues Fernandino"
       ],
-      "ano_formacao": "2022"
+      "ano_formacao": "2022",
+      "lider_emu": true
     },
     {
       "id": "7452588055040786",
@@ -4731,7 +4780,8 @@
       "lideres": [
         "Carla Silva Reis"
       ],
-      "ano_formacao": "2018"
+      "ano_formacao": "2018",
+      "lider_emu": true
     },
     {
       "id": "6736555048758906",
@@ -4742,7 +4792,8 @@
       "lideres": [
         "Carla Silva Reis"
       ],
-      "ano_formacao": "2018"
+      "ano_formacao": "2018",
+      "lider_emu": true
     },
     {
       "id": "0269451806976869",
@@ -4754,7 +4805,8 @@
         "Ricardo Alexandre de Freitas Lima",
         "Pollyanna Guimaraes da Silva"
       ],
-      "ano_formacao": "2022"
+      "ano_formacao": "2022",
+      "lider_emu": false
     },
     {
       "id": "8799449113244131",
@@ -4766,7 +4818,8 @@
         "Luis Mauricio Martins de Resende",
         "Joseane Pontes"
       ],
-      "ano_formacao": "2004"
+      "ano_formacao": "2004",
+      "lider_emu": false
     },
     {
       "id": "3704410293316359",
@@ -4778,7 +4831,8 @@
         "Sheila dos Santos Reinehr",
         "Andreia Malucelli"
       ],
-      "ano_formacao": "2002"
+      "ano_formacao": "2002",
+      "lider_emu": false
     },
     {
       "id": "3150904013999694",
@@ -4789,7 +4843,8 @@
       "lideres": [
         "Carlos Roberto Bueno Júnior"
       ],
-      "ano_formacao": "2013"
+      "ano_formacao": "2013",
+      "lider_emu": false
     },
     {
       "id": "8629166957282113",
@@ -4800,7 +4855,8 @@
       "lideres": [
         "Eloísa Joseane da Cunha Klein"
       ],
-      "ano_formacao": "2019"
+      "ano_formacao": "2019",
+      "lider_emu": false
     },
     {
       "id": "6032508434237074",
@@ -4812,7 +4868,8 @@
         "Geder Luis Parzianello",
         "Sandra Regina Barbosa Parzianello"
       ],
-      "ano_formacao": "2010"
+      "ano_formacao": "2010",
+      "lider_emu": false
     },
     {
       "id": "5536521499058525",
@@ -4824,7 +4881,8 @@
         "Minerva Leopoldina de Castro Amorim",
         "Kathya Augusta Thomé Lopes"
       ],
-      "ano_formacao": "2004"
+      "ano_formacao": "2004",
+      "lider_emu": false
     },
     {
       "id": "5299416253949886",
@@ -4836,7 +4894,8 @@
         "Wilian Hiroshi Hisatugu",
         "Anilton Salles Garcia"
       ],
-      "ano_formacao": "2016"
+      "ano_formacao": "2016",
+      "lider_emu": false
     },
     {
       "id": "0714517700148858",
@@ -4848,7 +4907,8 @@
         "Eduardo Pires Rosse",
         "Glaura Lucas"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": true
     },
     {
       "id": "0093521133677377",
@@ -4860,7 +4920,8 @@
         "Lenine Santos",
         "Adriana Giarola Kayama"
       ],
-      "ano_formacao": "2017"
+      "ano_formacao": "2017",
+      "lider_emu": false
     },
     {
       "id": "1522564049755160",
@@ -4871,7 +4932,8 @@
       "lideres": [
         "Fernanda Aguiar Carneiro Martins"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": false
     },
     {
       "id": "1769060738743924",
@@ -4882,7 +4944,8 @@
       "lideres": [
         "John Kennedy Pereira de Castro"
       ],
-      "ano_formacao": "2023"
+      "ano_formacao": "2023",
+      "lider_emu": false
     },
     {
       "id": "4859478945866955",
@@ -4893,7 +4956,8 @@
       "lideres": [
         "Ricieri Carlini Zorzal"
       ],
-      "ano_formacao": "2010"
+      "ano_formacao": "2010",
+      "lider_emu": false
     },
     {
       "id": "9571194652286076",
@@ -4905,7 +4969,8 @@
         "Paula Maria Aristides de Oliveira Molinari",
         "Cristiano Braga de Oliveira"
       ],
-      "ano_formacao": "2020"
+      "ano_formacao": "2020",
+      "lider_emu": false
     },
     {
       "id": "4641801960532414",
@@ -4917,7 +4982,8 @@
         "Laylson da Silva Borges",
         "Andre Ferreira Silva"
       ],
-      "ano_formacao": "2022"
+      "ano_formacao": "2022",
+      "lider_emu": false
     },
     {
       "id": "8477377059291692",
@@ -4928,7 +4994,8 @@
       "lideres": [
         "Cristiano Braga de Oliveira"
       ],
-      "ano_formacao": "2022"
+      "ano_formacao": "2022",
+      "lider_emu": false
     },
     {
       "id": "6423266483386430",
@@ -4939,7 +5006,8 @@
       "lideres": [
         "Victor Dmitriev"
       ],
-      "ano_formacao": "2008"
+      "ano_formacao": "2008",
+      "lider_emu": false
     },
     {
       "id": "0997286332715547",
@@ -4951,7 +5019,8 @@
         "Artur da Silva Gouveia Neto",
         "Marcos Vinicius Dias Vermelho"
       ],
-      "ano_formacao": "1989"
+      "ano_formacao": "1989",
+      "lider_emu": false
     },
     {
       "id": "0839502336156436",
@@ -4963,7 +5032,8 @@
         "Hugo Luis Fragnito",
         "Hugo Enrique Hernandez Figueroa"
       ],
-      "ano_formacao": "2008"
+      "ano_formacao": "2008",
+      "lider_emu": false
     },
     {
       "id": "9373294220205307",
@@ -4975,7 +5045,8 @@
         "Rejane Harder",
         "Adelson de Souza Brito Filho"
       ],
-      "ano_formacao": "2021"
+      "ano_formacao": "2021",
+      "lider_emu": false
     },
     {
       "id": "3032229122843450",
@@ -4986,7 +5057,8 @@
       "lideres": [
         "Mauricio Alves Loureiro"
       ],
-      "ano_formacao": "1998"
+      "ano_formacao": "1998",
+      "lider_emu": true
     },
     {
       "id": "8351542898389319",
@@ -4997,7 +5069,8 @@
       "lideres": [
         "Marco Aurélio Lana Peixoto"
       ],
-      "ano_formacao": "2000"
+      "ano_formacao": "2000",
+      "lider_emu": false
     },
     {
       "id": "7276103136711007",
@@ -5009,7 +5082,8 @@
         "Margarete Arroyo",
         "Heloisa Faria Braga Feichas"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": true
     },
     {
       "id": "6649148780359972",
@@ -5021,7 +5095,8 @@
         "Priscila Rezende Moreira",
         "Maria Esperança de Paula"
       ],
-      "ano_formacao": "2000"
+      "ano_formacao": "2000",
+      "lider_emu": false
     },
     {
       "id": "2622825440973055",
@@ -5033,7 +5108,8 @@
         "Leticia Moreira Sigolo",
         "Lucas Ricardo Cestaro"
       ],
-      "ano_formacao": "2002"
+      "ano_formacao": "2002",
+      "lider_emu": false
     },
     {
       "id": "0635177926370316",
@@ -5044,7 +5120,8 @@
       "lideres": [
         "Fernando Lacerda Simões Duarte"
       ],
-      "ano_formacao": "2020"
+      "ano_formacao": "2020",
+      "lider_emu": false
     },
     {
       "id": "3607451065601127",
@@ -5055,7 +5132,8 @@
       "lideres": [
         "Rosângela Pereira de Tugny"
       ],
-      "ano_formacao": "2010"
+      "ano_formacao": "2010",
+      "lider_emu": true
     },
     {
       "id": "9231386279809683",
@@ -5067,7 +5145,8 @@
         "Rosângela Pereira de Tugny",
         "Bernard Pêgo Belisário"
       ],
-      "ano_formacao": "2010"
+      "ano_formacao": "2010",
+      "lider_emu": true
     },
     {
       "id": "1622451171431187",
@@ -5078,7 +5157,8 @@
       "lideres": [
         "Evandro Dotto Dias"
       ],
-      "ano_formacao": "2022"
+      "ano_formacao": "2022",
+      "lider_emu": false
     },
     {
       "id": "5759020674220324",
@@ -5090,7 +5170,8 @@
         "Luciane Sanchotene Etchepare Daronco",
         "Darcieli Lima Ramos"
       ],
-      "ano_formacao": "2018"
+      "ano_formacao": "2018",
+      "lider_emu": false
     },
     {
       "id": "8108682662851281",
@@ -5102,7 +5183,8 @@
         "Luciane Sanchotene Etchepare Daronco",
         "Jadir Camargo Lemos"
       ],
-      "ano_formacao": "2007"
+      "ano_formacao": "2007",
+      "lider_emu": false
     },
     {
       "id": "0080251031275714",
@@ -5114,7 +5196,8 @@
         "Luciane Sanchotene Etchepare Daronco",
         "Melissa Medeiros Braz"
       ],
-      "ano_formacao": "2012"
+      "ano_formacao": "2012",
+      "lider_emu": false
     },
     {
       "id": "0065623509740702",
@@ -5126,7 +5209,8 @@
         "Luciane Sanchotene Etchepare Daronco",
         "Michele Forgiarini Saccol"
       ],
-      "ano_formacao": "2001"
+      "ano_formacao": "2001",
+      "lider_emu": false
     },
     {
       "id": "3815598050261502",
@@ -5137,7 +5221,8 @@
       "lideres": [
         "João Fortunato Soares de Quadros Júnior"
       ],
-      "ano_formacao": "2021"
+      "ano_formacao": "2021",
+      "lider_emu": false
     },
     {
       "id": "6637230605180788",
@@ -5148,7 +5233,8 @@
       "lideres": [
         "Diana Santiago da Fonseca"
       ],
-      "ano_formacao": "1995"
+      "ano_formacao": "1995",
+      "lider_emu": false
     },
     {
       "id": "8410818237759559",
@@ -5160,7 +5246,8 @@
         "Thiago Cazarim da Silva",
         "André Leme Pédico"
       ],
-      "ano_formacao": "2023"
+      "ano_formacao": "2023",
+      "lider_emu": false
     },
     {
       "id": "8818585198557781",
@@ -5172,7 +5259,8 @@
         "Ronan Gil de Morais",
         "Leonardo Bertolini Labrada"
       ],
-      "ano_formacao": "2014"
+      "ano_formacao": "2014",
+      "lider_emu": false
     },
     {
       "id": "5545117714963828",
@@ -5184,7 +5272,8 @@
         "Ronan Gil de Morais",
         "Kemuel Kesley Ferreira dos Santos"
       ],
-      "ano_formacao": "2024"
+      "ano_formacao": "2024",
+      "lider_emu": false
     },
     {
       "id": "2281357133054910",
@@ -5195,7 +5284,8 @@
       "lideres": [
         "Carlos Eduardo Di Stasi"
       ],
-      "ano_formacao": "2013"
+      "ano_formacao": "2013",
+      "lider_emu": false
     },
     {
       "id": "9986868050016587",
@@ -5207,7 +5297,8 @@
         "João Berchmans de Carvalho Sobrinho",
         "Cássio Henrique Ribeiro Martins"
       ],
-      "ano_formacao": "2000"
+      "ano_formacao": "2000",
+      "lider_emu": false
     },
     {
       "id": "7841606183141479",
@@ -5219,7 +5310,8 @@
         "Sheila Maria Ogasavara Beggiato",
         "Ana Maria de Barros"
       ],
-      "ano_formacao": "2008"
+      "ano_formacao": "2008",
+      "lider_emu": false
     },
     {
       "id": "8121277638779877",
@@ -5230,7 +5322,8 @@
       "lideres": [
         "Marcos Henrique Ferreira Sorgine"
       ],
-      "ano_formacao": "2019"
+      "ano_formacao": "2019",
+      "lider_emu": false
     },
     {
       "id": "4613348092464611",
@@ -5241,7 +5334,8 @@
       "lideres": [
         "Heloísa Maria Murgel Starling"
       ],
-      "ano_formacao": "2002"
+      "ano_formacao": "2002",
+      "lider_emu": false
     },
     {
       "id": "1402463360919459",
@@ -5253,7 +5347,8 @@
         "Angelo Laurence Covatti Terra",
         "Luiz Carlos Batista Turci"
       ],
-      "ano_formacao": "2017"
+      "ano_formacao": "2017",
+      "lider_emu": false
     },
     {
       "id": "6383655951029796",
@@ -5264,7 +5359,8 @@
       "lideres": [
         "Rosane Nora Castro"
       ],
-      "ano_formacao": "2004"
+      "ano_formacao": "2004",
+      "lider_emu": false
     },
     {
       "id": "6662364289290320",
@@ -5275,7 +5371,8 @@
       "lideres": [
         "José Patrício Bispo Júnior"
       ],
-      "ano_formacao": "2023"
+      "ano_formacao": "2023",
+      "lider_emu": false
     },
     {
       "id": "3444189414983732",
@@ -5286,7 +5383,8 @@
       "lideres": [
         "José Patrício Bispo Júnior"
       ],
-      "ano_formacao": "2023"
+      "ano_formacao": "2023",
+      "lider_emu": false
     },
     {
       "id": "6974298557344007",
@@ -5297,7 +5395,8 @@
       "lideres": [
         "Eda Maria de Oliveira Henriques"
       ],
-      "ano_formacao": "2005"
+      "ano_formacao": "2005",
+      "lider_emu": false
     },
     {
       "id": "3608310711602231",
@@ -5309,7 +5408,8 @@
         "Patrícia Corsino",
         "Rafaela Louise Silva Vilela"
       ],
-      "ano_formacao": "2006"
+      "ano_formacao": "2006",
+      "lider_emu": false
     },
     {
       "id": "8221840476087795",
@@ -5321,7 +5421,8 @@
         "Francisca Maria Gomes Cabral Soares",
         "Ana Lúcia Oliveira Aguiar"
       ],
-      "ano_formacao": "2008"
+      "ano_formacao": "2008",
+      "lider_emu": false
     },
     {
       "id": "4761106178201545",
@@ -5332,7 +5433,8 @@
       "lideres": [
         "Luciana Fernandes Hamond"
       ],
-      "ano_formacao": "2021"
+      "ano_formacao": "2021",
+      "lider_emu": false
     },
     {
       "id": "7028978055846995",
@@ -5344,7 +5446,8 @@
         "Celso Luiz de Araujo Cintra",
         "Daniel Luís Barreiro"
       ],
-      "ano_formacao": "2009"
+      "ano_formacao": "2009",
+      "lider_emu": false
     },
     {
       "id": "2488432672304878",
@@ -5356,7 +5459,8 @@
         "Andressa da Silva de Mello",
         "Marco Tulio de Mello"
       ],
-      "ano_formacao": "2017"
+      "ano_formacao": "2017",
+      "lider_emu": false
     },
     {
       "id": "2022092295895467",
@@ -5367,7 +5471,8 @@
       "lideres": [
         "Lidiane Aparecida Fernandes"
       ],
-      "ano_formacao": "2022"
+      "ano_formacao": "2022",
+      "lider_emu": false
     },
     {
       "id": "2004601541355200",
@@ -5378,7 +5483,8 @@
       "lideres": [
         "Fausto Borém"
       ],
-      "ano_formacao": "2001"
+      "ano_formacao": "2001",
+      "lider_emu": true
     },
     {
       "id": "9413037568168500",
@@ -5389,7 +5495,8 @@
       "lideres": [
         "Herbert Ugrinowitsch"
       ],
-      "ano_formacao": "1994"
+      "ano_formacao": "1994",
+      "lider_emu": false
     },
     {
       "id": "4280414868393006",
@@ -5401,7 +5508,8 @@
         "Nathálya Gardênia de Holanda Marinho Nogueira",
         "Bárbara de Paula Ferreira"
       ],
-      "ano_formacao": "2024"
+      "ano_formacao": "2024",
+      "lider_emu": false
     },
     {
       "id": "2610303903904167",
@@ -5413,7 +5521,8 @@
         "Cristiani Junqueira",
         "Cezenário Gonçalves Campos"
       ],
-      "ano_formacao": "2024"
+      "ano_formacao": "2024",
+      "lider_emu": false
     },
     {
       "id": "7659723802500651",
@@ -5424,7 +5533,8 @@
       "lideres": [
         "Lidiane Aparecida Fernandes"
       ],
-      "ano_formacao": "2024"
+      "ano_formacao": "2024",
+      "lider_emu": false
     },
     {
       "id": "4320123470250238",
@@ -5436,7 +5546,8 @@
         "Ingrid Ludimila Bastos Lôbo",
         "Camila Cristina Fonseca Bicalho"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "4061260453807956",
@@ -5448,7 +5559,8 @@
         "Leandro Fernandes Malloy-Diniz",
         "Paulo Eduardo Luiz de Mattos"
       ],
-      "ano_formacao": "2008"
+      "ano_formacao": "2008",
+      "lider_emu": false
     },
     {
       "id": "9572386886311542",
@@ -5459,7 +5571,8 @@
       "lideres": [
         "Guilherme Menezes Lage"
       ],
-      "ano_formacao": "2016"
+      "ano_formacao": "2016",
+      "lider_emu": false
     },
     {
       "id": "1792711353999392",
@@ -5470,7 +5583,8 @@
       "lideres": [
         "Guilherme Menezes Lage"
       ],
-      "ano_formacao": "2016"
+      "ano_formacao": "2016",
+      "lider_emu": false
     },
     {
       "id": "0529721661636383",
@@ -5482,7 +5596,8 @@
         "Márcio Leonel Farias Reis Páscoa",
         "Luciane Viana Barros Páscoa"
       ],
-      "ano_formacao": "2005"
+      "ano_formacao": "2005",
+      "lider_emu": false
     },
     {
       "id": "5304386124957559",
@@ -5493,7 +5608,8 @@
       "lideres": [
         "Helena Lopes da Silva"
       ],
-      "ano_formacao": "2012"
+      "ano_formacao": "2012",
+      "lider_emu": true
     },
     {
       "id": "2616046734949825",
@@ -5504,7 +5620,8 @@
       "lideres": [
         "Helena Lopes da Silva"
       ],
-      "ano_formacao": "2012"
+      "ano_formacao": "2012",
+      "lider_emu": true
     },
     {
       "id": "1180417016603217",
@@ -5515,7 +5632,8 @@
       "lideres": [
         "Helena Lopes da Silva"
       ],
-      "ano_formacao": "2012"
+      "ano_formacao": "2012",
+      "lider_emu": true
     },
     {
       "id": "3443023525347575",
@@ -5526,7 +5644,8 @@
       "lideres": [
         "Viviane Beineke"
       ],
-      "ano_formacao": "2019"
+      "ano_formacao": "2019",
+      "lider_emu": false
     },
     {
       "id": "1804307317493866",
@@ -5537,7 +5656,8 @@
       "lideres": [
         "Helena Lopes da Silva"
       ],
-      "ano_formacao": "2022"
+      "ano_formacao": "2022",
+      "lider_emu": true
     },
     {
       "id": "7505168395949119",
@@ -5548,7 +5668,8 @@
       "lideres": [
         "Otávio Luiz Machado Silva"
       ],
-      "ano_formacao": "2016"
+      "ano_formacao": "2016",
+      "lider_emu": false
     },
     {
       "id": "1607389328172076",
@@ -5560,7 +5681,8 @@
         "Rachel de Sousa Vianna",
         "Débora Mariz"
       ],
-      "ano_formacao": "2010"
+      "ano_formacao": "2010",
+      "lider_emu": false
     },
     {
       "id": "1025238967901511",
@@ -5571,7 +5693,8 @@
       "lideres": [
         "Flávia Motoyama Narita"
       ],
-      "ano_formacao": "2022"
+      "ano_formacao": "2022",
+      "lider_emu": false
     },
     {
       "id": "5263815412867187",
@@ -5582,7 +5705,8 @@
       "lideres": [
         "Edilson Vicente de Lima"
       ],
-      "ano_formacao": "2013"
+      "ano_formacao": "2013",
+      "lider_emu": false
     },
     {
       "id": "2260965298743647",
@@ -5594,7 +5718,8 @@
         "Edimilson Rodrigues de Souza",
         "Murilo Ferreira Velho de Arruda"
       ],
-      "ano_formacao": "2022"
+      "ano_formacao": "2022",
+      "lider_emu": false
     },
     {
       "id": "5141010451459389",
@@ -5605,7 +5730,8 @@
       "lideres": [
         "Gabriela de Lima Gomes"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": false
     },
     {
       "id": "7186878001964168",
@@ -5617,7 +5743,8 @@
         "Victor Neves de Souza",
         "Potiguara Curione Menezes"
       ],
-      "ano_formacao": "2020"
+      "ano_formacao": "2020",
+      "lider_emu": false
     },
     {
       "id": "0822997834314745",
@@ -5629,7 +5756,8 @@
         "Adonhiran Bernard de Almeida Reis",
         "Emerson Luiz de Biaggi"
       ],
-      "ano_formacao": "2021"
+      "ano_formacao": "2021",
+      "lider_emu": false
     },
     {
       "id": "8927832945244812",
@@ -5641,7 +5769,8 @@
         "Margareth Maria Milani",
         "Alisson Alípio"
       ],
-      "ano_formacao": "2019"
+      "ano_formacao": "2019",
+      "lider_emu": false
     },
     {
       "id": "1116902383433482",
@@ -5653,7 +5782,8 @@
         "Valquiria Farias Bezerra Barbosa",
         "Luciclaudio da Silva Barbosa"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": false
     },
     {
       "id": "5598947560252317",
@@ -5664,7 +5794,8 @@
       "lideres": [
         "José Davison da Silva Junior"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": true
     },
     {
       "id": "8446715745237874",
@@ -5675,7 +5806,8 @@
       "lideres": [
         "José Davison da Silva Junior"
       ],
-      "ano_formacao": "2020"
+      "ano_formacao": "2020",
+      "lider_emu": true
     },
     {
       "id": "2550485824516861",
@@ -5686,7 +5818,8 @@
       "lideres": [
         "Patricia Maria Vanzella"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "2771092373645129",
@@ -5697,7 +5830,8 @@
       "lideres": [
         "Patricia Maria Vanzella"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "8681456360201727",
@@ -5708,7 +5842,8 @@
       "lideres": [
         "Claudia Regina de Oliveira Zanini"
       ],
-      "ano_formacao": "2002"
+      "ano_formacao": "2002",
+      "lider_emu": false
     },
     {
       "id": "3650515259357411",
@@ -5720,7 +5855,8 @@
         "Andreza Maria de Lima",
         "Rosangela Maria de Melo"
       ],
-      "ano_formacao": "2018"
+      "ano_formacao": "2018",
+      "lider_emu": false
     },
     {
       "id": "2824260741951177",
@@ -5732,7 +5868,8 @@
         "Bernardina Santos Araújo de Sousa",
         "Robson Rodrigues Ribeiro"
       ],
-      "ano_formacao": "2013"
+      "ano_formacao": "2013",
+      "lider_emu": false
     },
     {
       "id": "5164201017749827",
@@ -5744,7 +5881,8 @@
         "José Orlando Alves",
         "Marcílio Fagner Onofre"
       ],
-      "ano_formacao": "2012"
+      "ano_formacao": "2012",
+      "lider_emu": false
     },
     {
       "id": "7599563195111060",
@@ -5756,7 +5894,8 @@
         "Silvio Ferraz Mello Filho",
         "Rogério Luiz Moraes Costa"
       ],
-      "ano_formacao": "2014"
+      "ano_formacao": "2014",
+      "lider_emu": false
     },
     {
       "id": "9814471697224334",
@@ -5767,7 +5906,8 @@
       "lideres": [
         "Elizabeth de Andrade Lima Hazin"
       ],
-      "ano_formacao": "2009"
+      "ano_formacao": "2009",
+      "lider_emu": false
     },
     {
       "id": "5325718785656053",
@@ -5779,7 +5919,8 @@
         "Jose Augusto Mannis",
         "Francisco Zmekhol Nascimento de Oliveira"
       ],
-      "ano_formacao": "2006"
+      "ano_formacao": "2006",
+      "lider_emu": false
     },
     {
       "id": "2535553439875794",
@@ -5791,7 +5932,8 @@
         "Flavio Santos Pereira",
         "Tatiana Olivieri Catanzaro"
       ],
-      "ano_formacao": "2018"
+      "ano_formacao": "2018",
+      "lider_emu": false
     },
     {
       "id": "6987065873047608",
@@ -5802,7 +5944,8 @@
       "lideres": [
         "Didier Jean Georges Guigue"
       ],
-      "ano_formacao": "1997"
+      "ano_formacao": "1997",
+      "lider_emu": false
     },
     {
       "id": "6421387724901273",
@@ -5814,7 +5957,8 @@
         "Rodolfo Caesar",
         "Sara Cohen"
       ],
-      "ano_formacao": "2010"
+      "ano_formacao": "2010",
+      "lider_emu": false
     },
     {
       "id": "3956723642172607",
@@ -5826,7 +5970,8 @@
         "Stanley Levi Nazareno Fernandes",
         "José Ricardo Jamal Júnior"
       ],
-      "ano_formacao": "2021"
+      "ano_formacao": "2021",
+      "lider_emu": true
     },
     {
       "id": "7683540952151703",
@@ -5838,7 +5983,8 @@
         "Marcos Vieira Silva",
         "Carlos Henrique de Souza Gerken"
       ],
-      "ano_formacao": "2000"
+      "ano_formacao": "2000",
+      "lider_emu": false
     },
     {
       "id": "3327814737577682",
@@ -5850,7 +5996,8 @@
         "Giovana Scareli",
         "Andrea Cristina Versuti"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": false
     },
     {
       "id": "7884574925143362",
@@ -5861,7 +6008,8 @@
       "lideres": [
         "Walter Melo Junior"
       ],
-      "ano_formacao": "2010"
+      "ano_formacao": "2010",
+      "lider_emu": false
     },
     {
       "id": "8023301655411454",
@@ -5873,7 +6021,8 @@
         "Maria Virgínia Machado Dazzani",
         "Patrícia Alvarenga"
       ],
-      "ano_formacao": "2013"
+      "ano_formacao": "2013",
+      "lider_emu": false
     },
     {
       "id": "3167756906558194",
@@ -5884,7 +6033,8 @@
       "lideres": [
         "Darlize Teixeira de Mello"
       ],
-      "ano_formacao": "2002"
+      "ano_formacao": "2002",
+      "lider_emu": false
     },
     {
       "id": "1598279609986290",
@@ -5896,7 +6046,8 @@
         "Thais Lobosque Aquino",
         "Flavia Maria Cruvinel"
       ],
-      "ano_formacao": "2021"
+      "ano_formacao": "2021",
+      "lider_emu": false
     },
     {
       "id": "1084344996388247",
@@ -5908,7 +6059,8 @@
         "Rita de Cassia Santos Buarque de Gusmao",
         "Antonio Barreto Hildebrando"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "0524391061559152",
@@ -5919,7 +6071,8 @@
       "lideres": [
         "Francisco Virginio Maracci"
       ],
-      "ano_formacao": "2024"
+      "ano_formacao": "2024",
+      "lider_emu": false
     },
     {
       "id": "6306144330542168",
@@ -5930,7 +6083,8 @@
       "lideres": [
         "Rodney Josué Biezuner"
       ],
-      "ano_formacao": "2018"
+      "ano_formacao": "2018",
+      "lider_emu": false
     },
     {
       "id": "7887532213836478",
@@ -5941,7 +6095,8 @@
       "lideres": [
         "Eduardo Shirlippe Goes Leandro"
       ],
-      "ano_formacao": "2020"
+      "ano_formacao": "2020",
+      "lider_emu": false
     },
     {
       "id": "7665240170602486",
@@ -5953,7 +6108,8 @@
         "Marcelo Fideles Braga",
         "Nilton Tadeu Vilela Junqueira"
       ],
-      "ano_formacao": "2008"
+      "ano_formacao": "2008",
+      "lider_emu": false
     },
     {
       "id": "6835412101356175",
@@ -5965,7 +6121,8 @@
         "Leonardo Lopes Bhering",
         "Cosme Damiao Cruz"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": false
     },
     {
       "id": "9994587895820409",
@@ -5976,7 +6133,8 @@
       "lideres": [
         "Willian Silva Barros"
       ],
-      "ano_formacao": "2009"
+      "ano_formacao": "2009",
+      "lider_emu": false
     },
     {
       "id": "9202532304484341",
@@ -5988,7 +6146,8 @@
         "Rita de Cássia Félix Alvarez",
         "Fabio Henrique Rojo Baio"
       ],
-      "ano_formacao": "2008"
+      "ano_formacao": "2008",
+      "lider_emu": false
     },
     {
       "id": "9045990805745571",
@@ -6000,7 +6159,8 @@
         "Paulo Eduardo Teodoro",
         "Larissa Pereira Ribeiro Teodoro"
       ],
-      "ano_formacao": "2017"
+      "ano_formacao": "2017",
+      "lider_emu": false
     },
     {
       "id": "7294819035764223",
@@ -6012,7 +6172,8 @@
         "Luana Vieira Toledo",
         "Leonardo Lopes Bhering"
       ],
-      "ano_formacao": "2024"
+      "ano_formacao": "2024",
+      "lider_emu": false
     },
     {
       "id": "9191016460490057",
@@ -6024,7 +6185,8 @@
         "Derly Jose Henriques da Silva",
         "Carlos Nick Gomes"
       ],
-      "ano_formacao": "2000"
+      "ano_formacao": "2000",
+      "lider_emu": false
     },
     {
       "id": "0374341363099617",
@@ -6035,7 +6197,8 @@
       "lideres": [
         "Acelino Couto Alfenas"
       ],
-      "ano_formacao": "1984"
+      "ano_formacao": "1984",
+      "lider_emu": false
     },
     {
       "id": "6600845574146282",
@@ -6046,7 +6209,8 @@
       "lideres": [
         "Ilana Rosental Zalmon"
       ],
-      "ano_formacao": "2023"
+      "ano_formacao": "2023",
+      "lider_emu": false
     },
     {
       "id": "6241527622490523",
@@ -6058,7 +6222,8 @@
         "Ana Paula Madeira Di Beneditto",
         "Ilana Rosental Zalmon"
       ],
-      "ano_formacao": "2004"
+      "ano_formacao": "2004",
+      "lider_emu": false
     },
     {
       "id": "6175753289194766",
@@ -6070,7 +6235,8 @@
         "Mercia Virginia Ferreira dos Santos",
         "José Carlos Batista Dubeux Junior"
       ],
-      "ano_formacao": "1984"
+      "ano_formacao": "1984",
+      "lider_emu": false
     },
     {
       "id": "5160873887039670",
@@ -6082,7 +6248,8 @@
         "Deive Barbosa Alves",
         "Arlindo José de Souza Junior"
       ],
-      "ano_formacao": "2007"
+      "ano_formacao": "2007",
+      "lider_emu": false
     },
     {
       "id": "1655836920530065",
@@ -6093,7 +6260,8 @@
       "lideres": [
         "Lucas de Alvarenga Gontijo"
       ],
-      "ano_formacao": "2021"
+      "ano_formacao": "2021",
+      "lider_emu": false
     },
     {
       "id": "1493146839178879",
@@ -6104,7 +6272,8 @@
       "lideres": [
         "Ricardo André Fiorotti Peixoto"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": false
     },
     {
       "id": "6574833517782716",
@@ -6116,7 +6285,8 @@
         "Davi Guimarães da Silva",
         "Ronilson Aquino Silva de Santana"
       ],
-      "ano_formacao": "2017"
+      "ano_formacao": "2017",
+      "lider_emu": false
     },
     {
       "id": "7391595617157264",
@@ -6127,7 +6297,8 @@
       "lideres": [
         "Ambrósio Florêncio de Almeida Neto"
       ],
-      "ano_formacao": "2018"
+      "ano_formacao": "2018",
+      "lider_emu": false
     },
     {
       "id": "9099014017212124",
@@ -6138,7 +6309,8 @@
       "lideres": [
         "Amanda Valiengo"
       ],
-      "ano_formacao": "2018"
+      "ano_formacao": "2018",
+      "lider_emu": false
     },
     {
       "id": "9038757427739421",
@@ -6150,7 +6322,8 @@
         "Luiz Alberto Bavaresco de Naveda",
         "Marília Nunes Silva"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "5208463828140788",
@@ -6161,7 +6334,8 @@
       "lideres": [
         "Luciana Pires de Sá Requião"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": false
     },
     {
       "id": "0898399761819035",
@@ -6173,7 +6347,8 @@
         "Luiz Alberto Bavaresco de Naveda",
         "Loque Arcanjo Junior"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "4469966509041630",
@@ -6184,7 +6359,33 @@
       "lideres": [
         "Rafael Henrique Soares Velloso"
       ],
-      "ano_formacao": "2023"
+      "ano_formacao": "2023",
+      "lider_emu": false
+    },
+    {
+      "id": "6555194010132305",
+      "nome": "Crítica Textual",
+      "situacao": "Certificado",
+      "instituicao": "Fundação Biblioteca Nacional - FBN",
+      "unidade": "",
+      "lideres": [
+        "Maria Olívia de Quadros Saraiva",
+        "Fábio Frohwein de Salles Moniz"
+      ],
+      "ano_formacao": "2014",
+      "lider_emu": false
+    },
+    {
+      "id": "3975186280577145",
+      "nome": "Grupo de Apoio e Difusão da Canção Brasileira",
+      "situacao": "Excluído",
+      "instituicao": "Universidade de São Paulo - USP",
+      "unidade": "Faculdade de Filosofia Ciências e Letras de Ribeirão Preto",
+      "lideres": [
+        "Silvia Maria Pires Cabrera Berg"
+      ],
+      "ano_formacao": "2014",
+      "lider_emu": false
     },
     {
       "id": "7640177801599253",
@@ -6196,7 +6397,8 @@
         "Luiz Carlos Mantovani Junior",
         "Valeria Maria Fuser Bittar"
       ],
-      "ano_formacao": "2004"
+      "ano_formacao": "2004",
+      "lider_emu": false
     },
     {
       "id": "1750651428163027",
@@ -6207,7 +6409,8 @@
       "lideres": [
         "Flávio Cardoso de Carvalho"
       ],
-      "ano_formacao": "2013"
+      "ano_formacao": "2013",
+      "lider_emu": false
     },
     {
       "id": "3465822671228675",
@@ -6219,7 +6422,8 @@
         "Francisco Ângelo Coutinho",
         "Gabriel Menezes Viana"
       ],
-      "ano_formacao": "2021"
+      "ano_formacao": "2021",
+      "lider_emu": false
     },
     {
       "id": "6353706437037183",
@@ -6230,7 +6434,8 @@
       "lideres": [
         "José Eugenio de Oliveira Menezes"
       ],
-      "ano_formacao": "2008"
+      "ano_formacao": "2008",
+      "lider_emu": false
     },
     {
       "id": "7235718361698684",
@@ -6241,7 +6446,8 @@
       "lideres": [
         "Marco Antonio Farias Scarassatti"
       ],
-      "ano_formacao": "2010"
+      "ano_formacao": "2010",
+      "lider_emu": true
     },
     {
       "id": "9067712330554860",
@@ -6253,7 +6459,8 @@
         "Vinícius da Silva Lírio",
         "Marco Antonio Farias Scarassatti"
       ],
-      "ano_formacao": "2010"
+      "ano_formacao": "2010",
+      "lider_emu": true
     },
     {
       "id": "3470300346394471",
@@ -6264,7 +6471,8 @@
       "lideres": [
         "Felipe Merker Castellani"
       ],
-      "ano_formacao": "2018"
+      "ano_formacao": "2018",
+      "lider_emu": false
     },
     {
       "id": "2096887800553087",
@@ -6275,7 +6483,8 @@
       "lideres": [
         "Josiley Francisco de Souza"
       ],
-      "ano_formacao": "2023"
+      "ano_formacao": "2023",
+      "lider_emu": false
     },
     {
       "id": "8680417291349033",
@@ -6287,7 +6496,8 @@
         "Aracy Alves Martins",
         "Vanda Lúcia Praxedes"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "7663646567346933",
@@ -6298,7 +6508,8 @@
       "lideres": [
         "Thaís Amorim Aragão"
       ],
-      "ano_formacao": "2025"
+      "ano_formacao": "2025",
+      "lider_emu": false
     },
     {
       "id": "3744520549437733",
@@ -6310,7 +6521,8 @@
         "Maria Rosimary Soares dos Santos",
         "Savana Diniz Gomes Melo"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "6706754148531641",
@@ -6322,7 +6534,8 @@
         "Suzana dos Santos Gomes",
         "José Angelo Gariglio"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "6100190853255519",
@@ -6333,7 +6546,8 @@
       "lideres": [
         "Carlos Fernando Elías Llanos"
       ],
-      "ano_formacao": "2022"
+      "ano_formacao": "2022",
+      "lider_emu": false
     },
     {
       "id": "0345406748721922",
@@ -6345,7 +6559,8 @@
         "Carlos Fernando Elías Llanos",
         "Christian Spencer"
       ],
-      "ano_formacao": "2022"
+      "ano_formacao": "2022",
+      "lider_emu": false
     },
     {
       "id": "6518117940948654",
@@ -6356,7 +6571,8 @@
       "lideres": [
         "David Lima Azevedo"
       ],
-      "ano_formacao": "2017"
+      "ano_formacao": "2017",
+      "lider_emu": false
     },
     {
       "id": "3554193949615279",
@@ -6367,7 +6583,8 @@
       "lideres": [
         "David Lima Azevedo"
       ],
-      "ano_formacao": "2017"
+      "ano_formacao": "2017",
+      "lider_emu": false
     },
     {
       "id": "9212523183412102",
@@ -6378,7 +6595,8 @@
       "lideres": [
         "Estefânea Élida da Silva Gusmão"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "0426425676451682",
@@ -6389,7 +6607,8 @@
       "lideres": [
         "Paulo César Corrêa Borges"
       ],
-      "ano_formacao": "2009"
+      "ano_formacao": "2009",
+      "lider_emu": false
     },
     {
       "id": "5222692550452047",
@@ -6400,7 +6619,8 @@
       "lideres": [
         "Paolla Magioni Santini"
       ],
-      "ano_formacao": "2022"
+      "ano_formacao": "2022",
+      "lider_emu": false
     },
     {
       "id": "0815999997645872",
@@ -6412,7 +6632,8 @@
         "Sergio Azra Barrenechea",
         "Lucia Silva Barrenechea"
       ],
-      "ano_formacao": "2009"
+      "ano_formacao": "2009",
+      "lider_emu": false
     },
     {
       "id": "8145465821665919",
@@ -6423,7 +6644,8 @@
       "lideres": [
         "Pauxy Gentil Nunes Filho"
       ],
-      "ano_formacao": "2020"
+      "ano_formacao": "2020",
+      "lider_emu": false
     },
     {
       "id": "5922150710666480",
@@ -6435,7 +6657,8 @@
         "Felipe de Almeida Ribeiro",
         "Ricardo de Oliveira Thomasi"
       ],
-      "ano_formacao": "2012"
+      "ano_formacao": "2012",
+      "lider_emu": false
     },
     {
       "id": "2103246875479507",
@@ -6447,7 +6670,8 @@
         "Hani Camille Yehia",
         "Adriano Vilela Barbosa"
       ],
-      "ano_formacao": "2000"
+      "ano_formacao": "2000",
+      "lider_emu": false
     },
     {
       "id": "7793434980840141",
@@ -6459,7 +6683,8 @@
         "Mauricio Alves Loureiro",
         "Sergio Freire Garcia"
       ],
-      "ano_formacao": "1998"
+      "ano_formacao": "1998",
+      "lider_emu": true
     },
     {
       "id": "6475652812851947",
@@ -6471,7 +6696,8 @@
         "Hani Camille Yehia",
         "Mauricio Alves Loureiro"
       ],
-      "ano_formacao": "2009"
+      "ano_formacao": "2009",
+      "lider_emu": true
     },
     {
       "id": "6186610589755034",
@@ -6482,7 +6708,8 @@
       "lideres": [
         "Fausto Borém"
       ],
-      "ano_formacao": "1994"
+      "ano_formacao": "1994",
+      "lider_emu": true
     },
     {
       "id": "4440597511579689",
@@ -6494,7 +6721,8 @@
         "Myrian Ribeiro Aubin",
         "Mauro Camilo de Chantal Santos"
       ],
-      "ano_formacao": "2023"
+      "ano_formacao": "2023",
+      "lider_emu": true
     },
     {
       "id": "4345080314962773",
@@ -6506,7 +6734,8 @@
         "Angelo José Fernandes",
         "Adriana Giarola Kayama"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": false
     },
     {
       "id": "1446579553256639",
@@ -6518,7 +6747,8 @@
         "Rosana Lamosa Pereira",
         "Juliana de Carvalho Starling"
       ],
-      "ano_formacao": "2024"
+      "ano_formacao": "2024",
+      "lider_emu": false
     },
     {
       "id": "9690423897439492",
@@ -6530,7 +6760,8 @@
         "Mauro Rodrigues Junior",
         "Rodrigo De Losso da Silveira Bueno"
       ],
-      "ano_formacao": "2009"
+      "ano_formacao": "2009",
+      "lider_emu": false
     },
     {
       "id": "6496055220151006",
@@ -6542,7 +6773,8 @@
         "Mauricio Soares Bugarin",
         "Marina Delmondes de Carvalho Rossi"
       ],
-      "ano_formacao": "2013"
+      "ano_formacao": "2013",
+      "lider_emu": false
     },
     {
       "id": "7801915322657422",
@@ -6553,7 +6785,8 @@
       "lideres": [
         "Vivianne Aparecida Lopes"
       ],
-      "ano_formacao": "2019"
+      "ano_formacao": "2019",
+      "lider_emu": false
     },
     {
       "id": "6238040302504144",
@@ -6564,7 +6797,8 @@
       "lideres": [
         "Paula Maria Lima Galama"
       ],
-      "ano_formacao": "2021"
+      "ano_formacao": "2021",
+      "lider_emu": false
     },
     {
       "id": "4106928178139012",
@@ -6575,7 +6809,8 @@
       "lideres": [
         "Paula Maria Lima Galama"
       ],
-      "ano_formacao": "2021"
+      "ano_formacao": "2021",
+      "lider_emu": false
     },
     {
       "id": "9451698650838291",
@@ -6586,7 +6821,8 @@
       "lideres": [
         "Henrique Maia Lins Vaz"
       ],
-      "ano_formacao": "2022"
+      "ano_formacao": "2022",
+      "lider_emu": false
     },
     {
       "id": "3085014901651881",
@@ -6597,7 +6833,8 @@
       "lideres": [
         "Marcelino Peixoto de Melo"
       ],
-      "ano_formacao": "2018"
+      "ano_formacao": "2018",
+      "lider_emu": false
     },
     {
       "id": "0256344679225126",
@@ -6609,7 +6846,8 @@
         "Martha Tupinambá de Ulhôa",
         "Maya Suemi Lemos"
       ],
-      "ano_formacao": "2000"
+      "ano_formacao": "2000",
+      "lider_emu": false
     },
     {
       "id": "4948579685471041",
@@ -6621,7 +6859,8 @@
         "Jailson Pereira da Silva",
         "Ana Rita Fonteles Duarte"
       ],
-      "ano_formacao": "2012"
+      "ano_formacao": "2012",
+      "lider_emu": false
     },
     {
       "id": "7542963959465828",
@@ -6633,7 +6872,8 @@
         "Francisco Edson Gomes",
         "Cléria Mendonça de Moraes"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "9046734975955014",
@@ -6644,7 +6884,8 @@
       "lideres": [
         "Renata Coelho Rodrigues Noronha"
       ],
-      "ano_formacao": "2024"
+      "ano_formacao": "2024",
+      "lider_emu": false
     },
     {
       "id": "4947763931556748",
@@ -6656,7 +6897,8 @@
         "Irene Cibelle Gonçalves Sampaio",
         "Liz Carmem Silva-Pereira"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": false
     },
     {
       "id": "2621388227286515",
@@ -6667,7 +6909,8 @@
       "lideres": [
         "Luanna de Melo Pereira Fernandes"
       ],
-      "ano_formacao": "2023"
+      "ano_formacao": "2023",
+      "lider_emu": false
     },
     {
       "id": "3835374174102006",
@@ -6679,7 +6922,8 @@
         "João da Silva Carneiro",
         "Ronilson Freitas de Souza"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "7946777540380672",
@@ -6690,7 +6934,8 @@
       "lideres": [
         "Diego Aires da Silva"
       ],
-      "ano_formacao": "2018"
+      "ano_formacao": "2018",
+      "lider_emu": false
     },
     {
       "id": "9226330608827297",
@@ -6702,7 +6947,8 @@
         "Maria Tereza Serrano Barbosa",
         "Luciane de Souza Velasque"
       ],
-      "ano_formacao": "2013"
+      "ano_formacao": "2013",
+      "lider_emu": false
     },
     {
       "id": "9496852463947844",
@@ -6713,7 +6959,8 @@
       "lideres": [
         "Luciane de Souza Velasque"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": false
     },
     {
       "id": "2015880940869938",
@@ -6725,7 +6972,8 @@
         "Alcivan Nunes Vieira",
         "Francisca Patrícia Barreto de Carvalho"
       ],
-      "ano_formacao": "2017"
+      "ano_formacao": "2017",
+      "lider_emu": false
     },
     {
       "id": "6942859143958629",
@@ -6737,7 +6985,8 @@
         "Francisco Arnoldo Nunes de Miranda",
         "Fernando de Souza Silva"
       ],
-      "ano_formacao": "2010"
+      "ano_formacao": "2010",
+      "lider_emu": false
     },
     {
       "id": "5293880296570820",
@@ -6749,7 +6998,8 @@
         "Magda Fabiana do Amaral Pereira Lima",
         "Líbne Lidianne da Rocha e Nóbrega"
       ],
-      "ano_formacao": "2010"
+      "ano_formacao": "2010",
+      "lider_emu": false
     },
     {
       "id": "1566405828728880",
@@ -6761,7 +7011,8 @@
         "Isabel Cristina Amaral de Sousa Rosso Nelson",
         "Lucídio Clebeson de Oliveira"
       ],
-      "ano_formacao": "2020"
+      "ano_formacao": "2020",
+      "lider_emu": false
     },
     {
       "id": "5263516812613328",
@@ -6773,7 +7024,8 @@
         "Luzia Cecília de Medeiros",
         "Johny Carlos de Queiroz"
       ],
-      "ano_formacao": "2007"
+      "ano_formacao": "2007",
+      "lider_emu": false
     },
     {
       "id": "4032568706714203",
@@ -6785,7 +7037,8 @@
         "Constantino Ribeiro de Oliveira Junior",
         "Miguel Archanjo de Freitas Júnior"
       ],
-      "ano_formacao": "2002"
+      "ano_formacao": "2002",
+      "lider_emu": false
     },
     {
       "id": "0927815843004041",
@@ -6797,7 +7050,8 @@
         "Julio Cesar Pieczarka",
         "Cleusa Yoshiko Nagamachi"
       ],
-      "ano_formacao": "1983"
+      "ano_formacao": "1983",
+      "lider_emu": false
     },
     {
       "id": "0550986341512825",
@@ -6809,7 +7063,8 @@
         "Ana Patrícia Pereira Morais",
         "Jose Maria Ximenes Guimarães"
       ],
-      "ano_formacao": "2018"
+      "ano_formacao": "2018",
+      "lider_emu": false
     },
     {
       "id": "3562901366408072",
@@ -6821,7 +7076,8 @@
         "Frei Paulo Cantanheide",
         "Euzebio Fernandes de Carvalho"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "3002539506262241",
@@ -6833,7 +7089,8 @@
         "Gelmires de Araujo Neves",
         "Luciana Viana Amorim"
       ],
-      "ano_formacao": "2004"
+      "ano_formacao": "2004",
+      "lider_emu": false
     },
     {
       "id": "8152111936761137",
@@ -6844,7 +7101,8 @@
       "lideres": [
         "Eduardo Sterzi de Carvalho Júnior"
       ],
-      "ano_formacao": "2025"
+      "ano_formacao": "2025",
+      "lider_emu": false
     },
     {
       "id": "0230370647524580",
@@ -6856,7 +7114,8 @@
         "Raquel Siqueira da Silva",
         "Márcio Florentino Pereira"
       ],
-      "ano_formacao": "2019"
+      "ano_formacao": "2019",
+      "lider_emu": false
     },
     {
       "id": "4401131288427371",
@@ -6868,7 +7127,8 @@
         "Graziela Valadares Gomes de Mello Vianna",
         "Nísio Antônio Teixeira Ferreira"
       ],
-      "ano_formacao": "2019"
+      "ano_formacao": "2019",
+      "lider_emu": false
     },
     {
       "id": "3411291374717097",
@@ -6879,7 +7139,8 @@
       "lideres": [
         "Miriam Hermeto Sá Motta"
       ],
-      "ano_formacao": "2008"
+      "ano_formacao": "2008",
+      "lider_emu": false
     },
     {
       "id": "2778304475646014",
@@ -6891,7 +7152,8 @@
         "Marta Regina Maia",
         "Hila Rodrigues"
       ],
-      "ano_formacao": "2009"
+      "ano_formacao": "2009",
+      "lider_emu": false
     },
     {
       "id": "6455901310464996",
@@ -6903,7 +7165,8 @@
         "Helena Serra Azul Monteiro",
         "Roberta Jeane Bezerra Jorge"
       ],
-      "ano_formacao": "2000"
+      "ano_formacao": "2000",
+      "lider_emu": false
     },
     {
       "id": "3094151200934098",
@@ -6915,7 +7178,8 @@
         "Regina Machado",
         "Ricardo Alexandre de Freitas Lima"
       ],
-      "ano_formacao": "2013"
+      "ano_formacao": "2013",
+      "lider_emu": false
     },
     {
       "id": "4773924037692564",
@@ -6927,7 +7191,8 @@
         "Levy Pacheco de Oliveira Neto",
         "Rodrigo Manoel Frade"
       ],
-      "ano_formacao": "2022"
+      "ano_formacao": "2022",
+      "lider_emu": false
     },
     {
       "id": "5234510803252938",
@@ -6939,7 +7204,8 @@
         "Dayse Cury de Almeida Oliveira",
         "Raquel Coelho de Souza Lima"
       ],
-      "ano_formacao": "2016"
+      "ano_formacao": "2016",
+      "lider_emu": false
     },
     {
       "id": "8998555156618286",
@@ -6950,7 +7216,8 @@
       "lideres": [
         "Augustin Maurice Marie Gondallier de Tugny"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "6612614843589588",
@@ -6962,7 +7229,8 @@
         "Jose Jorge de Carvalho",
         "Kabengele Munanga"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": false
     },
     {
       "id": "3498778787946898",
@@ -6973,7 +7241,8 @@
       "lideres": [
         "Jose Jorge de Carvalho"
       ],
-      "ano_formacao": "2011"
+      "ano_formacao": "2011",
+      "lider_emu": false
     },
     {
       "id": "3683344097887457",
@@ -6984,7 +7253,8 @@
       "lideres": [
         "Thais Giselle Diniz Santos"
       ],
-      "ano_formacao": "2024"
+      "ano_formacao": "2024",
+      "lider_emu": false
     },
     {
       "id": "0726932199939933",
@@ -6995,7 +7265,8 @@
       "lideres": [
         "Jose Jorge de Carvalho"
       ],
-      "ano_formacao": "2014"
+      "ano_formacao": "2014",
+      "lider_emu": false
     },
     {
       "id": "7586931138499159",
@@ -7007,7 +7278,8 @@
         "Jose Jorge de Carvalho",
         "Carla Ladeira Pimentel Águas"
       ],
-      "ano_formacao": "2014"
+      "ano_formacao": "2014",
+      "lider_emu": false
     },
     {
       "id": "7695457752379280",
@@ -7019,7 +7291,8 @@
         "Bruna Franchetto",
         "Kristine Sue Stenzel"
       ],
-      "ano_formacao": "2012"
+      "ano_formacao": "2012",
+      "lider_emu": false
     },
     {
       "id": "2304345272856151",
@@ -7031,7 +7304,8 @@
         "Jose Pedro Machado Ribeiro",
         "Rogério Ferreira"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "8170414882622740",
@@ -7042,7 +7316,8 @@
       "lideres": [
         "Francisco Antonio Nunes Neto"
       ],
-      "ano_formacao": "2015"
+      "ano_formacao": "2015",
+      "lider_emu": false
     },
     {
       "id": "8089108413627371",
@@ -7054,7 +7329,8 @@
         "Rosiane Lemos Vianna",
         "Stefano Paschoal"
       ],
-      "ano_formacao": "2014"
+      "ano_formacao": "2014",
+      "lider_emu": false
     },
     {
       "id": "6900153839316842",
@@ -7065,7 +7341,8 @@
       "lideres": [
         "Rosiane Lemos Vianna"
       ],
-      "ano_formacao": "2014"
+      "ano_formacao": "2014",
+      "lider_emu": false
     },
     {
       "id": "8034313894213276",
@@ -7077,7 +7354,8 @@
         "Susana Castro Gil",
         "Caio de Souza"
       ],
-      "ano_formacao": "2024"
+      "ano_formacao": "2024",
+      "lider_emu": false
     },
     {
       "id": "5314321700813680",
@@ -7089,7 +7367,8 @@
         "Bibiana Maria Bragagnolo",
         "Leonardo Pellegrim Sanchez"
       ],
-      "ano_formacao": "2021"
+      "ano_formacao": "2021",
+      "lider_emu": false
     },
     {
       "id": "1816572174414315",
@@ -7101,7 +7380,8 @@
         "Márcio Antônio de Paiva",
         "Robson Sávio Reis Souza"
       ],
-      "ano_formacao": "2012"
+      "ano_formacao": "2012",
+      "lider_emu": false
     },
     {
       "id": "5668347739587680",
@@ -7112,7 +7392,8 @@
       "lideres": [
         "Thais Fernanda Vicente Rabelo Maciel"
       ],
-      "ano_formacao": "2023"
+      "ano_formacao": "2023",
+      "lider_emu": true
     },
     {
       "id": "7443140389670880",
@@ -7124,7 +7405,8 @@
         "Joaquim Tavares da Conceição",
         "Anamaria Gonçalves Bueno de Freitas"
       ],
-      "ano_formacao": "2016"
+      "ano_formacao": "2016",
+      "lider_emu": false
     },
     {
       "id": "5138427546337297",
@@ -7135,7 +7417,8 @@
       "lideres": [
         "Wesley Faria Gomes"
       ],
-      "ano_formacao": "2006"
+      "ano_formacao": "2006",
+      "lider_emu": false
     },
     {
       "id": "8465763463231594",
@@ -7147,7 +7430,8 @@
         "Christian Alessandro Lisboa",
         "Mackely Ribeiro Borges"
       ],
-      "ano_formacao": "2009"
+      "ano_formacao": "2009",
+      "lider_emu": false
     },
     {
       "id": "8856361692679187",
@@ -7158,7 +7442,8 @@
       "lideres": [
         "Rogério Rodrigues"
       ],
-      "ano_formacao": "2004"
+      "ano_formacao": "2004",
+      "lider_emu": false
     },
     {
       "id": "5225053539670789",
@@ -7169,7 +7454,8 @@
       "lideres": [
         "Manuel Silveira Falleiros"
       ],
-      "ano_formacao": "2021"
+      "ano_formacao": "2021",
+      "lider_emu": false
     },
     {
       "id": "5869352558536778",
@@ -7181,7 +7467,8 @@
         "Fernando França da Cunha",
         "Catariny Cabral Aleman"
       ],
-      "ano_formacao": "2016"
+      "ano_formacao": "2016",
+      "lider_emu": false
     },
     {
       "id": "6971892568688872",
@@ -7193,7 +7480,8 @@
         "Rogerio Teixeira de Faria",
         "Alexandre Barcellos Dalri"
       ],
-      "ano_formacao": "2014"
+      "ano_formacao": "2014",
+      "lider_emu": false
     },
     {
       "id": "2910674726206095",
@@ -7205,7 +7493,8 @@
         "Fernando Falco Pruski",
         "Demetrius David da Silva"
       ],
-      "ano_formacao": "1993"
+      "ano_formacao": "1993",
+      "lider_emu": false
     }
   ],
   "vinculos": [
@@ -9362,6 +9651,27 @@
       "pessoa_id": "p_9122224580647279",
       "grupo_id": "5008796127366033",
       "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_9482569745798601",
+      "grupo_id": "6555194010132305",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_9482569745798601",
+      "grupo_id": "3975186280577145",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": false
+    },
+    {
+      "pessoa_id": "p_9482569745798601",
+      "grupo_id": "1957139244846306",
+      "relacao": "lider",
       "modo_busca": "pesquisador",
       "atual": true
     },
