@@ -899,7 +899,7 @@
     },
     {
       "id": "p_2620589959761917",
-      "nome": "C.G Delmonaco",
+      "nome": "Celina DELMONACO",
       "rotulo": "Egresso",
       "rotulos": [
         "Egresso"
@@ -913,7 +913,7 @@
     },
     {
       "id": "p_2620589959761917",
-      "nome": "C.G Delmonaco",
+      "nome": "Celina DELMONACO",
       "rotulo": "Egresso",
       "rotulos": [
         "Egresso"
@@ -1176,7 +1176,7 @@
     },
     {
       "id": "p_2763092045453831",
-      "nome": "Elder Thomaz",
+      "nome": "Elder THOMAZ",
       "rotulo": "Discente",
       "rotulos": [
         "Discente"
@@ -1625,7 +1625,7 @@
     },
     {
       "id": "p_3319945680854184",
-      "nome": "Geremias De A Nunes",
+      "nome": "Geremias De A NUNES",
       "rotulo": "Discente",
       "rotulos": [
         "Discente"
@@ -1704,7 +1704,7 @@
     },
     {
       "id": "p_7291980478992375",
-      "nome": "Guilherme M. Lage",
+      "nome": "Guilherme M. LAGE",
       "rotulo": "Docente",
       "rotulos": [
         "Docente"
@@ -1832,7 +1832,7 @@
     },
     {
       "id": "p_8393859888431528",
-      "nome": "Henrique Lowson",
+      "nome": "Henrique LOWSON",
       "rotulo": "Discente|Egresso",
       "rotulos": [
         "Discente",
@@ -2392,7 +2392,7 @@
     },
     {
       "id": "p_8840911451389247",
-      "nome": "Juliana Brito",
+      "nome": "Juliana BRITO",
       "rotulo": "Discente|Egresso",
       "rotulos": [
         "Discente",
@@ -2858,21 +2858,6 @@
       "nivel": null
     },
     {
-      "id": "p_9482569745798601",
-      "nome": "Luciana MONTEIRO DE CASTRO",
-      "rotulo": "Docente",
-      "rotulos": [
-        "Docente"
-      ],
-      "id_lattes": "9482569745798601",
-      "grupos": [
-        "6555194010132305",
-        "3975186280577145",
-        "1957139244846306"
-      ],
-      "nivel": null
-    },
-    {
       "id": "p_2195964474920848",
       "nome": "Luciano B. CARNEIRO",
       "rotulo": "Discente",
@@ -3168,7 +3153,7 @@
     },
     {
       "id": "p_8883649326870068",
-      "nome": "Maria P. V.B Sabeti",
+      "nome": "Maria P. V.B SABETI",
       "rotulo": "Discente|Egresso",
       "rotulos": [
         "Discente",
@@ -3261,7 +3246,7 @@
     },
     {
       "id": "p_0736558180156584",
-      "nome": "M.M MARCON",
+      "nome": "Marina MARCON",
       "rotulo": "Egresso",
       "rotulos": [
         "Egresso"
@@ -3839,7 +3824,7 @@
     },
     {
       "id": "p_1050520497701676",
-      "nome": "Rafael Ribeiro",
+      "nome": "Rafael RIBEIRO",
       "rotulo": "Egresso",
       "rotulos": [
         "Egresso"
@@ -4017,7 +4002,7 @@
     },
     {
       "id": "p_2520321068877353",
-      "nome": "Ricardo Luiz Dias",
+      "nome": "Ricardo Luiz DIAS",
       "rotulo": "Discente",
       "rotulos": [
         "Discente"
@@ -4163,7 +4148,7 @@
     },
     {
       "id": "p_4693502399887504",
-      "nome": "Rômullo Moraes Ramalho",
+      "nome": "Rômullo Moraes RAMALHO",
       "rotulo": "Discente",
       "rotulos": [
         "Discente"
@@ -11066,27 +11051,6 @@
       "pessoa_id": "p_9122224580647279",
       "grupo_id": "5008796127366033",
       "relacao": "membro",
-      "modo_busca": "pesquisador",
-      "atual": true
-    },
-    {
-      "pessoa_id": "p_9482569745798601",
-      "grupo_id": "6555194010132305",
-      "relacao": "membro",
-      "modo_busca": "pesquisador",
-      "atual": true
-    },
-    {
-      "pessoa_id": "p_9482569745798601",
-      "grupo_id": "3975186280577145",
-      "relacao": "membro",
-      "modo_busca": "pesquisador",
-      "atual": false
-    },
-    {
-      "pessoa_id": "p_9482569745798601",
-      "grupo_id": "1957139244846306",
-      "relacao": "lider",
       "modo_busca": "pesquisador",
       "atual": true
     },
