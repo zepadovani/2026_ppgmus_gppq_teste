@@ -1271,7 +1271,15 @@
         "Docente"
       ],
       "id_lattes": "5589268218426587",
-      "grupos": [],
+      "grupos": [
+        "5538435309307834",
+        "2004601541355200",
+        "9370379010803581",
+        "9600144615619169",
+        "1792711353999392",
+        "6186610589755034",
+        "0356347582179974"
+      ],
       "nivel": null
     },
     {
@@ -4557,6 +4565,7 @@
         "Luciana Monteiro de Castro"
       ],
       "ano_formacao": "2003",
+      "website": "http://www.grude.ufmg.br/cancaobrasileira",
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -4570,6 +4579,7 @@
         "José Henrique Padovani Velloso"
       ],
       "ano_formacao": "2021",
+      "website": null,
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -4584,6 +4594,7 @@
         "Cybelle Maria Veiga Loureiro"
       ],
       "ano_formacao": "2018",
+      "website": "https://www.musica.ufmg.br",
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -4598,6 +4609,7 @@
         "Mônica Medeiros Ribeiro"
       ],
       "ano_formacao": "2012",
+      "website": "https://criaartes.org/",
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -4612,6 +4624,7 @@
         "Eduardo Campolina"
       ],
       "ano_formacao": "2014",
+      "website": "https://violão-ufmg.org",
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -4626,6 +4639,7 @@
         "Frederico Gonçalves Pedrosa"
       ],
       "ano_formacao": "1998",
+      "website": "https://musica.ufmg.br/cegeme/",
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -4640,6 +4654,7 @@
         "Vinícius Dias de Carvalho"
       ],
       "ano_formacao": "2018",
+      "website": "http://libra.ifpi.edu.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -4654,6 +4669,7 @@
         "Anderson Luiz Souza Moreira"
       ],
       "ano_formacao": "2011",
+      "website": "https://www.recife.ifpe.edu.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -4668,6 +4684,7 @@
         "Cristina Maria Zackseski"
       ],
       "ano_formacao": "2007",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -4682,6 +4699,7 @@
         "Pollyana Caetano Ribeiro Fernandes"
       ],
       "ano_formacao": "2013",
+      "website": "http://www.cear.ufpb.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -4696,6 +4714,7 @@
         "Kristiana Cerqueira Mousinho"
       ],
       "ano_formacao": "2012",
+      "website": "https://www.cesmac.com.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -4710,6 +4729,7 @@
         "Isabel Maria da Cruz Lousada"
       ],
       "ano_formacao": "2006",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -4723,6 +4743,7 @@
         "Paulo Nazareno Maia Sampaio"
       ],
       "ano_formacao": "2004",
+      "website": "http://www.unifacs.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -4736,6 +4757,7 @@
         "Paulo Caetano da Silva"
       ],
       "ano_formacao": "2002",
+      "website": "http://www.nuperc.unifacs.br/grupos-de-pesquisa/gesa/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -4749,6 +4771,7 @@
         "Maria Betânia Parizzi Fonseca"
       ],
       "ano_formacao": "2021",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -4762,6 +4785,7 @@
         "Fausto Borém"
       ],
       "ano_formacao": "1994",
+      "website": null,
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -4776,6 +4800,7 @@
         "Claus Herbert Clüver"
       ],
       "ano_formacao": "2005",
+      "website": "https://www.thais-flores.pro.br",
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -4789,6 +4814,7 @@
         "Alfredo Werney Lima Torres"
       ],
       "ano_formacao": "2026",
+      "website": "https://www.ifpi.edu.br/teresinacentral",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -4803,6 +4829,7 @@
         "Edite Maria Oliveira da Rocha"
       ],
       "ano_formacao": "2009",
+      "website": "http://www.musica.ufmg.br/ppgmus/?page_id=1269",
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -4817,6 +4844,7 @@
         "Mauricio Freire Garcia"
       ],
       "ano_formacao": "2016",
+      "website": null,
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -4830,6 +4858,7 @@
         "Aline Azevedo Costa"
       ],
       "ano_formacao": "2021",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -4844,6 +4873,7 @@
         "Verônica Magalhães Rosário"
       ],
       "ano_formacao": "2011",
+      "website": null,
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -4858,6 +4888,7 @@
         "Franco Noce"
       ],
       "ano_formacao": "1991",
+      "website": "https://www.lapes.com.br",
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -4872,6 +4903,7 @@
         "Fernando Crespo Corvisier"
       ],
       "ano_formacao": "2011",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -4885,6 +4917,7 @@
         "Ana Cláudia de Assis"
       ],
       "ano_formacao": "2006",
+      "website": null,
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -4898,6 +4931,7 @@
         "Fernando de Oliveira Magre"
       ],
       "ano_formacao": "2024",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -4912,6 +4946,7 @@
         "Pedro Francisco Mota Júnior"
       ],
       "ano_formacao": "2018",
+      "website": null,
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -4926,6 +4961,7 @@
         "Clifford Hill Korman"
       ],
       "ano_formacao": "2014",
+      "website": null,
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -4939,6 +4975,7 @@
         "Ernani de Castro Maletta"
       ],
       "ano_formacao": "2012",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -4953,6 +4990,7 @@
         "André Machado Queiroz"
       ],
       "ano_formacao": "2024",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -4967,6 +5005,7 @@
         "Gabriel Henrique Albuquerque Lins"
       ],
       "ano_formacao": "2023",
+      "website": "https://@liana.ufpe",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -4981,6 +5020,7 @@
         "Maria Helena Menna Barreto Abrahão"
       ],
       "ano_formacao": "2013",
+      "website": "https://www.unb.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -4994,6 +5034,7 @@
         "Sérgio de Figueiredo Rocha"
       ],
       "ano_formacao": "2016",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5007,6 +5048,7 @@
         "Antonio Carlos Guimarães"
       ],
       "ano_formacao": "2019",
+      "website": "https://ufsj.edu.br/dmusi/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5020,6 +5062,7 @@
         "Raul Costa Davila"
       ],
       "ano_formacao": "2017",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5034,6 +5077,7 @@
         "Antonio Carlos Guimarães"
       ],
       "ano_formacao": "2006",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5048,6 +5092,7 @@
         "Emmanuela Ferreira de Lima"
       ],
       "ano_formacao": "2013",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5061,6 +5106,7 @@
         "Nora Ney Santos Barcelos"
       ],
       "ano_formacao": "2014",
+      "website": "https://www.ifgoiano.edu.br/morrinhos",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5074,6 +5120,7 @@
         "Angela Maria Ribeiro"
       ],
       "ano_formacao": "1990",
+      "website": "https://www.ufmg.br/lanec",
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -5088,6 +5135,7 @@
         "Domingos Sávio Lins Brandão"
       ],
       "ano_formacao": "2010",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5101,6 +5149,7 @@
         "Sergio Freire Garcia"
       ],
       "ano_formacao": "2004",
+      "website": "https://www.musica.ufmg.br/lapis",
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -5115,6 +5164,7 @@
         "Sheila Cordeiro Mota"
       ],
       "ano_formacao": "2023",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5129,6 +5179,7 @@
         "Ronaldo Auad Moreira"
       ],
       "ano_formacao": "2017",
+      "website": "http://www.unifal-mg.edu.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5143,6 +5194,7 @@
         "Ana Carolina Correia Almeida"
       ],
       "ano_formacao": "2024",
+      "website": "https://www.ufmg.br/ead/",
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -5157,6 +5209,7 @@
         "Jussara Rodrigues Fernandino"
       ],
       "ano_formacao": "2022",
+      "website": null,
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -5170,6 +5223,7 @@
         "Carla Silva Reis"
       ],
       "ano_formacao": "2018",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5183,6 +5237,7 @@
         "Carla Silva Reis"
       ],
       "ano_formacao": "2018",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5197,6 +5252,7 @@
         "Pollyanna Guimaraes da Silva"
       ],
       "ano_formacao": "2022",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5211,6 +5267,7 @@
         "Joseane Pontes"
       ],
       "ano_formacao": "2004",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5225,6 +5282,7 @@
         "Andreia Malucelli"
       ],
       "ano_formacao": "2002",
+      "website": "http://www.ppgia.pucpr.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5238,6 +5296,7 @@
         "Carlos Roberto Bueno Júnior"
       ],
       "ano_formacao": "2013",
+      "website": "http://www.usp.br/eeferp/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5251,6 +5310,7 @@
         "Eloísa Joseane da Cunha Klein"
       ],
       "ano_formacao": "2019",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5265,6 +5325,7 @@
         "Sandra Regina Barbosa Parzianello"
       ],
       "ano_formacao": "2010",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5279,6 +5340,7 @@
         "Kathya Augusta Thomé Lopes"
       ],
       "ano_formacao": "2004",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5293,6 +5355,7 @@
         "Anilton Salles Garcia"
       ],
       "ano_formacao": "2016",
+      "website": "http://ticsaude.ufes.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5307,6 +5370,7 @@
         "Glaura Lucas"
       ],
       "ano_formacao": "2015",
+      "website": "https://www.facebook.com/etnosufmg/",
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -5321,6 +5385,7 @@
         "Adriana Giarola Kayama"
       ],
       "ano_formacao": "2017",
+      "website": "https://www.leninesantos.com.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5334,6 +5399,7 @@
         "Fernanda Aguiar Carneiro Martins"
       ],
       "ano_formacao": "2011",
+      "website": "https://www.ufrb.edu.br/cahl",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5347,6 +5413,7 @@
         "John Kennedy Pereira de Castro"
       ],
       "ano_formacao": "2023",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5360,6 +5427,7 @@
         "Ricieri Carlini Zorzal"
       ],
       "ano_formacao": "2010",
+      "website": "http://musica.ufma.br/ensaio/index.html",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5374,6 +5442,7 @@
         "Cristiano Braga de Oliveira"
       ],
       "ano_formacao": "2020",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5388,6 +5457,7 @@
         "Andre Ferreira Silva"
       ],
       "ano_formacao": "2022",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5401,6 +5471,7 @@
         "Cristiano Braga de Oliveira"
       ],
       "ano_formacao": "2022",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5414,6 +5485,7 @@
         "Victor Dmitriev"
       ],
       "ano_formacao": "2008",
+      "website": "https://nanotribo.ufpa.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5428,6 +5500,7 @@
         "Marcos Vinicius Dias Vermelho"
       ],
       "ano_formacao": "1989",
+      "website": "http://www.fis.ufal.br/gffc",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5442,6 +5515,7 @@
         "Hugo Enrique Hernandez Figueroa"
       ],
       "ano_formacao": "2008",
+      "website": "http://fotonicom.ifi.unicamp.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5456,6 +5530,7 @@
         "Adelson de Souza Brito Filho"
       ],
       "ano_formacao": "2021",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5469,6 +5544,7 @@
         "Mauricio Alves Loureiro"
       ],
       "ano_formacao": "1998",
+      "website": "http://musica.ufmg.br/cegeme/",
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -5482,6 +5558,7 @@
         "Marco Aurélio Lana Peixoto"
       ],
       "ano_formacao": "2000",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -5496,6 +5573,7 @@
         "Heloisa Faria Braga Feichas"
       ],
       "ano_formacao": "2011",
+      "website": "https://grupoapremus.blogspot.com.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5510,6 +5588,7 @@
         "Maria Esperança de Paula"
       ],
       "ano_formacao": "2000",
+      "website": "http://www.uemg.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5524,6 +5603,7 @@
         "Lucas Ricardo Cestaro"
       ],
       "ano_formacao": "2002",
+      "website": "https://http//www.puc-campinas.edu.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5537,6 +5617,7 @@
         "Fernando Lacerda Simões Duarte"
       ],
       "ano_formacao": "2020",
+      "website": "https://sites.google.com/ufpa.br/patrimusi",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5550,6 +5631,7 @@
         "Rosângela Pereira de Tugny"
       ],
       "ano_formacao": "2010",
+      "website": "http://prodocult.museudoindio.gov.br/projetos/apresentacao",
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -5564,6 +5646,7 @@
         "Bernard Pêgo Belisário"
       ],
       "ano_formacao": "2010",
+      "website": "http://amerindias.art.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5577,6 +5660,7 @@
         "Evandro Dotto Dias"
       ],
       "ano_formacao": "2022",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5591,6 +5675,7 @@
         "Darcieli Lima Ramos"
       ],
       "ano_formacao": "2018",
+      "website": "https://nemaefslabintec+http://lusanchotene.wix.com/nemaefslabintec",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5605,6 +5690,7 @@
         "Jadir Camargo Lemos"
       ],
       "ano_formacao": "2007",
+      "website": "https://nemaefslabintec+http://lusanchotene.wix.com/nemaefslabintec",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5619,6 +5705,7 @@
         "Melissa Medeiros Braz"
       ],
       "ano_formacao": "2012",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5633,6 +5720,7 @@
         "Michele Forgiarini Saccol"
       ],
       "ano_formacao": "2001",
+      "website": "https://nemaefslabintec+http://lusanchotene.wix.com/nemaefslabintec",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5646,6 +5734,7 @@
         "João Fortunato Soares de Quadros Júnior"
       ],
       "ano_formacao": "2021",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5659,6 +5748,7 @@
         "Diana Santiago da Fonseca"
       ],
       "ano_formacao": "1995",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5673,7 +5763,94 @@
         "André Leme Pédico"
       ],
       "ano_formacao": "2023",
+      "website": null,
       "lider_emu": false,
+      "grupo_ufmg": false
+    },
+    {
+      "id": "5538435309307834",
+      "nome": "[eMMa] Núcleo de Estudos em Música e Musicologia Audiotátil",
+      "situacao": "Certificado",
+      "instituicao": "Universidade Federal do Espírito Santo - UFES",
+      "unidade": "Centro de Artes da UFES",
+      "lideres": [
+        "Fabiano Araujo Costa"
+      ],
+      "ano_formacao": "2017",
+      "website": "http://musica.ufes.br/emma-núcleo-de-estudos-em-música-e-musicologia-audiotátil",
+      "lider_emu": false,
+      "grupo_ufmg": false
+    },
+    {
+      "id": "2004601541355200",
+      "nome": "ECAPMUS - Ensino, Controle e Aprendizagem na Performance Musical",
+      "situacao": "Excluído",
+      "instituicao": "Universidade Federal de Minas Gerais - UFMG",
+      "unidade": "Departamento de Instrumentos e Canto",
+      "lideres": [
+        "Fausto Borém"
+      ],
+      "ano_formacao": "2001",
+      "website": "https://www.musica.ufmg.br/~fborem",
+      "lider_emu": true,
+      "grupo_ufmg": false
+    },
+    {
+      "id": "9370379010803581",
+      "nome": "Música Popular: história, produção e linguagem",
+      "situacao": "Certificado",
+      "instituicao": "Universidade Estadual de Campinas - UNICAMP",
+      "unidade": "Departamento de Música",
+      "lideres": [
+        "Antônio Rafael Carvalho dos Santos",
+        "Jose Roberto Zan"
+      ],
+      "ano_formacao": "2002",
+      "website": "http://www.iar.unicamp.br/musicapopular/",
+      "lider_emu": false,
+      "grupo_ufmg": false
+    },
+    {
+      "id": "9600144615619169",
+      "nome": "Música, Corpo e Ciência",
+      "situacao": "Excluído",
+      "instituicao": "Universidade Federal de Goiás - UFG",
+      "unidade": "",
+      "lideres": [
+        "Sonia Marta Rodrigues Raymundo",
+        "Patrícia Furst Santiago"
+      ],
+      "ano_formacao": "2006",
+      "website": "https://www.emac.ufg.br",
+      "lider_emu": false,
+      "grupo_ufmg": false
+    },
+    {
+      "id": "1792711353999392",
+      "nome": "Núcleo de Neurociências do Movimento (NNeuroM)",
+      "situacao": "Certificado",
+      "instituicao": "Universidade Federal de Minas Gerais - UFMG",
+      "unidade": "Escola de Educação Física",
+      "lideres": [
+        "Guilherme Menezes Lage"
+      ],
+      "ano_formacao": "2016",
+      "website": "https://www.nneurom.com",
+      "lider_emu": false,
+      "grupo_ufmg": true
+    },
+    {
+      "id": "6186610589755034",
+      "nome": "PPPMUS - \"Pérolas\" e \"Pepinos\" da Performance Musical",
+      "situacao": "Excluído",
+      "instituicao": "Universidade Federal de Minas Gerais - UFMG",
+      "unidade": "Departamento de Instrumentos e Canto",
+      "lideres": [
+        "Fausto Borém"
+      ],
+      "ano_formacao": "1994",
+      "website": "http://www.musica.ufmg/~fborem",
+      "lider_emu": true,
       "grupo_ufmg": false
     },
     {
@@ -5687,6 +5864,7 @@
         "Leonardo Bertolini Labrada"
       ],
       "ano_formacao": "2014",
+      "website": "https://nep3percussion.wixsite.com/meusite",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5701,6 +5879,7 @@
         "Kemuel Kesley Ferreira dos Santos"
       ],
       "ano_formacao": "2024",
+      "website": "https://nep3percussion.wixsite.com/meusite",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5714,6 +5893,7 @@
         "Carlos Eduardo Di Stasi"
       ],
       "ano_formacao": "2013",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5728,6 +5908,7 @@
         "Cássio Henrique Ribeiro Martins"
       ],
       "ano_formacao": "2000",
+      "website": "http://www.ufpi.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5742,6 +5923,7 @@
         "Ana Maria de Barros"
       ],
       "ano_formacao": "2008",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5755,6 +5937,7 @@
         "Marcos Henrique Ferreira Sorgine"
       ],
       "ano_formacao": "2019",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5768,6 +5951,7 @@
         "Heloísa Maria Murgel Starling"
       ],
       "ano_formacao": "2002",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -5782,6 +5966,7 @@
         "Luiz Carlos Batista Turci"
       ],
       "ano_formacao": "2017",
+      "website": "https://www.instagram.com/geherpeto?igsh=cDdmd3kzZjlwMHh0",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5795,6 +5980,7 @@
         "Rosane Nora Castro"
       ],
       "ano_formacao": "2004",
+      "website": "http://www.ufrrj.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5808,6 +5994,7 @@
         "José Patrício Bispo Júnior"
       ],
       "ano_formacao": "2023",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5821,6 +6008,7 @@
         "José Patrício Bispo Júnior"
       ],
       "ano_formacao": "2023",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5834,6 +6022,7 @@
         "Eda Maria de Oliveira Henriques"
       ],
       "ano_formacao": "2005",
+      "website": "https://www.feuff.uff.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5848,6 +6037,7 @@
         "Rafaela Louise Silva Vilela"
       ],
       "ano_formacao": "2006",
+      "website": "http://www.educacao.ufrj.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5862,6 +6052,7 @@
         "Ana Lúcia Oliveira Aguiar"
       ],
       "ano_formacao": "2008",
+      "website": "https://www.uern.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5875,6 +6066,7 @@
         "Luciana Fernandes Hamond"
       ],
       "ano_formacao": "2021",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5889,6 +6081,7 @@
         "Daniel Luís Barreiro"
       ],
       "ano_formacao": "2009",
+      "website": "http://www.numut.iarte.ufu.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5903,6 +6096,7 @@
         "Marco Tulio de Mello"
       ],
       "ano_formacao": "2017",
+      "website": "https://www.cepebr.org",
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -5916,20 +6110,8 @@
         "Lidiane Aparecida Fernandes"
       ],
       "ano_formacao": "2022",
+      "website": null,
       "lider_emu": false,
-      "grupo_ufmg": false
-    },
-    {
-      "id": "2004601541355200",
-      "nome": "ECAPMUS - Ensino, Controle e Aprendizagem na Performance Musical",
-      "situacao": "Excluído",
-      "instituicao": "Universidade Federal de Minas Gerais - UFMG",
-      "unidade": "Departamento de Instrumentos e Canto",
-      "lideres": [
-        "Fausto Borém"
-      ],
-      "ano_formacao": "2001",
-      "lider_emu": true,
       "grupo_ufmg": false
     },
     {
@@ -5942,6 +6124,7 @@
         "Herbert Ugrinowitsch"
       ],
       "ano_formacao": "1994",
+      "website": "https://www.gedam.com.br+",
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -5956,6 +6139,7 @@
         "Bárbara de Paula Ferreira"
       ],
       "ano_formacao": "2024",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5970,6 +6154,7 @@
         "Cezenário Gonçalves Campos"
       ],
       "ano_formacao": "2024",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5983,6 +6168,7 @@
         "Lidiane Aparecida Fernandes"
       ],
       "ano_formacao": "2024",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -5997,6 +6183,7 @@
         "Camila Cristina Fonseca Bicalho"
       ],
       "ano_formacao": "2015",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6011,6 +6198,7 @@
         "Paulo Eduardo Luiz de Mattos"
       ],
       "ano_formacao": "2008",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -6024,19 +6212,7 @@
         "Guilherme Menezes Lage"
       ],
       "ano_formacao": "2016",
-      "lider_emu": false,
-      "grupo_ufmg": true
-    },
-    {
-      "id": "1792711353999392",
-      "nome": "Núcleo de Neurociências do Movimento (NNeuroM)",
-      "situacao": "Certificado",
-      "instituicao": "Universidade Federal de Minas Gerais - UFMG",
-      "unidade": "Escola de Educação Física",
-      "lideres": [
-        "Guilherme Menezes Lage"
-      ],
-      "ano_formacao": "2016",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -6051,6 +6227,7 @@
         "Luciane Viana Barros Páscoa"
       ],
       "ano_formacao": "2005",
+      "website": "https://www.uea.edu.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6064,6 +6241,7 @@
         "Helena Lopes da Silva"
       ],
       "ano_formacao": "2012",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6077,6 +6255,7 @@
         "Helena Lopes da Silva"
       ],
       "ano_formacao": "2012",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6090,6 +6269,7 @@
         "Helena Lopes da Silva"
       ],
       "ano_formacao": "2012",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6103,6 +6283,7 @@
         "Viviane Beineke"
       ],
       "ano_formacao": "2019",
+      "website": "https://www.udesc.br/ceart/inventa",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6116,6 +6297,7 @@
         "Helena Lopes da Silva"
       ],
       "ano_formacao": "2022",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -6129,6 +6311,7 @@
         "Otávio Luiz Machado Silva"
       ],
       "ano_formacao": "2016",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6143,6 +6326,7 @@
         "Débora Mariz"
       ],
       "ano_formacao": "2010",
+      "website": "https://www.uemg.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6156,6 +6340,7 @@
         "Flávia Motoyama Narita"
       ],
       "ano_formacao": "2022",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6169,6 +6354,7 @@
         "Edilson Vicente de Lima"
       ],
       "ano_formacao": "2013",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6183,6 +6369,7 @@
         "Murilo Ferreira Velho de Arruda"
       ],
       "ano_formacao": "2022",
+      "website": "https://fames.es.gov.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6196,6 +6383,7 @@
         "Gabriela de Lima Gomes"
       ],
       "ano_formacao": "2011",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6210,6 +6398,7 @@
         "Potiguara Curione Menezes"
       ],
       "ano_formacao": "2020",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6224,6 +6413,7 @@
         "Emerson Luiz de Biaggi"
       ],
       "ano_formacao": "2021",
+      "website": "https://www.iar.unicamp.br/pos-graduacao-em-musica/grupos-de-pesquisa/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6238,6 +6428,7 @@
         "Alisson Alípio"
       ],
       "ano_formacao": "2019",
+      "website": "http://ppgmus.unespar.edu.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6252,6 +6443,7 @@
         "Luciclaudio da Silva Barbosa"
       ],
       "ano_formacao": "2011",
+      "website": "https://www.facebook.com/groups/1517133515185093",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6265,6 +6457,7 @@
         "José Davison da Silva Junior"
       ],
       "ano_formacao": "2011",
+      "website": "http://barreiros.ifpe.edu.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6278,6 +6471,7 @@
         "José Davison da Silva Junior"
       ],
       "ano_formacao": "2020",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6291,6 +6485,7 @@
         "Patricia Maria Vanzella"
       ],
       "ano_formacao": "2015",
+      "website": "http://neuro.ufabc.edu.br/music",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6304,6 +6499,7 @@
         "Patricia Maria Vanzella"
       ],
       "ano_formacao": "2015",
+      "website": "https://neuromusica.pesquisa.ufabc.edu.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6317,6 +6513,7 @@
         "Claudia Regina de Oliveira Zanini"
       ],
       "ano_formacao": "2002",
+      "website": "http://www.emac.ufg.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6331,6 +6528,7 @@
         "Rosangela Maria de Melo"
       ],
       "ano_formacao": "2018",
+      "website": "https://portal.ifpe.edu.br/campus/olinda/cursos/pos-graduacao/mestrado/ProfEPT",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6345,6 +6543,7 @@
         "Robson Rodrigues Ribeiro"
       ],
       "ano_formacao": "2013",
+      "website": "http://www.ifpe.edu.br/campus/belo-jardim",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6359,6 +6558,7 @@
         "Marcílio Fagner Onofre"
       ],
       "ano_formacao": "2012",
+      "website": "https://www.ufpb.br/compomus",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6373,6 +6573,7 @@
         "Rogério Luiz Moraes Costa"
       ],
       "ano_formacao": "2014",
+      "website": "http://www.eca.usp.br/departam/cmu/corpdoce/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6386,6 +6587,7 @@
         "Elizabeth de Andrade Lima Hazin"
       ],
       "ano_formacao": "2009",
+      "website": "http://www.tel.unb.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6400,6 +6602,7 @@
         "Francisco Zmekhol Nascimento de Oliveira"
       ],
       "ano_formacao": "2006",
+      "website": "https://www.iar.unicamp.br/gesom/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6414,6 +6617,7 @@
         "Tatiana Olivieri Catanzaro"
       ],
       "ano_formacao": "2018",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6427,6 +6631,7 @@
         "Didier Jean Georges Guigue"
       ],
       "ano_formacao": "1997",
+      "website": "http://www.ccta.ufpb.br/mus3",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6441,6 +6646,7 @@
         "Sara Cohen"
       ],
       "ano_formacao": "2010",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6455,6 +6661,7 @@
         "José Ricardo Jamal Júnior"
       ],
       "ano_formacao": "2021",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6469,6 +6676,7 @@
         "Carlos Henrique de Souza Gerken"
       ],
       "ano_formacao": "2000",
+      "website": "http://www.ufsj.edu.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6483,6 +6691,7 @@
         "Andrea Cristina Versuti"
       ],
       "ano_formacao": "2011",
+      "website": "https://ufsj.edu.br/gefi/o_grupo.php",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6496,6 +6705,7 @@
         "Walter Melo Junior"
       ],
       "ano_formacao": "2010",
+      "website": "https://nepisufsj.wordpress.com",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6510,6 +6720,7 @@
         "Patrícia Alvarenga"
       ],
       "ano_formacao": "2013",
+      "website": "https://pospsi.ufba.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6523,6 +6734,7 @@
         "Darlize Teixeira de Mello"
       ],
       "ano_formacao": "2002",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6537,6 +6749,7 @@
         "Flavia Maria Cruvinel"
       ],
       "ano_formacao": "2021",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6551,6 +6764,7 @@
         "Antonio Barreto Hildebrando"
       ],
       "ano_formacao": "2015",
+      "website": "https://www.eba.ufmg.br",
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -6564,6 +6778,7 @@
         "Francisco Virginio Maracci"
       ],
       "ano_formacao": "2024",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6577,6 +6792,7 @@
         "Rodney Josué Biezuner"
       ],
       "ano_formacao": "2018",
+      "website": "https://math-phys.group",
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -6590,6 +6806,7 @@
         "Eduardo Shirlippe Goes Leandro"
       ],
       "ano_formacao": "2020",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6604,6 +6821,7 @@
         "Nilton Tadeu Vilela Junqueira"
       ],
       "ano_formacao": "2008",
+      "website": "https://www.cpac.embrapa.com.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6618,6 +6836,7 @@
         "Cosme Damiao Cruz"
       ],
       "ano_formacao": "2011",
+      "website": "http://www.biometria.ufv.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6631,6 +6850,7 @@
         "Willian Silva Barros"
       ],
       "ano_formacao": "2009",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6645,6 +6865,7 @@
         "Fabio Henrique Rojo Baio"
       ],
       "ano_formacao": "2008",
+      "website": "http://www.cpcs.ufms.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6659,6 +6880,7 @@
         "Larissa Pereira Ribeiro Teodoro"
       ],
       "ano_formacao": "2017",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6673,6 +6895,7 @@
         "Leonardo Lopes Bhering"
       ],
       "ano_formacao": "2024",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6687,6 +6910,7 @@
         "Carlos Nick Gomes"
       ],
       "ano_formacao": "2000",
+      "website": "http://www.ufv.br\\bgh",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6700,6 +6924,7 @@
         "Acelino Couto Alfenas"
       ],
       "ano_formacao": "1984",
+      "website": "https://www.patomol.bioagro.ufv.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6713,6 +6938,7 @@
         "Ilana Rosental Zalmon"
       ],
       "ano_formacao": "2023",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6727,6 +6953,7 @@
         "Ilana Rosental Zalmon"
       ],
       "ano_formacao": "2004",
+      "website": "http://www.uenf.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6741,6 +6968,7 @@
         "José Carlos Batista Dubeux Junior"
       ],
       "ano_formacao": "1984",
+      "website": "http://www.ufrpe.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6755,6 +6983,7 @@
         "Arlindo José de Souza Junior"
       ],
       "ano_formacao": "2007",
+      "website": "https://sites.google.com/view/nupeme",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6768,6 +6997,7 @@
         "Lucas de Alvarenga Gontijo"
       ],
       "ano_formacao": "2021",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6781,6 +7011,7 @@
         "Ricardo André Fiorotti Peixoto"
       ],
       "ano_formacao": "2011",
+      "website": "https://www.reciclos.ufop.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6795,6 +7026,7 @@
         "Ronilson Aquino Silva de Santana"
       ],
       "ano_formacao": "2017",
+      "website": "https://www.itaituba.ifpa.edu.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6808,6 +7040,7 @@
         "Ambrósio Florêncio de Almeida Neto"
       ],
       "ano_formacao": "2018",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6821,6 +7054,7 @@
         "Amanda Valiengo"
       ],
       "ano_formacao": "2018",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6835,6 +7069,7 @@
         "Marília Nunes Silva"
       ],
       "ano_formacao": "2015",
+      "website": "https://www.corpuslab.info",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6848,6 +7083,7 @@
         "Luciana Pires de Sá Requião"
       ],
       "ano_formacao": "2011",
+      "website": "http://www.culturatrabalhoedu.uff.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6862,6 +7098,7 @@
         "Loque Arcanjo Junior"
       ],
       "ano_formacao": "2015",
+      "website": "https://www.corpuslab.info",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6875,6 +7112,7 @@
         "Rafael Henrique Soares Velloso"
       ],
       "ano_formacao": "2023",
+      "website": "https://acervosvirtuais.ufpel.edu.br/choropatrimonio",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6889,6 +7127,7 @@
         "Fábio Frohwein de Salles Moniz"
       ],
       "ano_formacao": "2014",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6902,6 +7141,7 @@
         "Silvia Maria Pires Cabrera Berg"
       ],
       "ano_formacao": "2014",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6916,6 +7156,7 @@
         "Valeria Maria Fuser Bittar"
       ],
       "ano_formacao": "2004",
+      "website": "https://www.udesc.br/ceart/musics",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6929,6 +7170,7 @@
         "Flávio Cardoso de Carvalho"
       ],
       "ano_formacao": "2013",
+      "website": "http://www.iarte.ufu.br/musica",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6943,6 +7185,7 @@
         "Gabriel Menezes Viana"
       ],
       "ano_formacao": "2021",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -6956,6 +7199,7 @@
         "José Eugenio de Oliveira Menezes"
       ],
       "ano_formacao": "2008",
+      "website": "https://casperlibero.edu.br/mestrado/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -6969,6 +7213,7 @@
         "Marco Antonio Farias Scarassatti"
       ],
       "ano_formacao": "2010",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -6983,6 +7228,7 @@
         "Marco Antonio Farias Scarassatti"
       ],
       "ano_formacao": "2010",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -6996,6 +7242,7 @@
         "Felipe Merker Castellani"
       ],
       "ano_formacao": "2018",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7009,6 +7256,7 @@
         "Josiley Francisco de Souza"
       ],
       "ano_formacao": "2023",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -7023,6 +7271,7 @@
         "Vanda Lúcia Praxedes"
       ],
       "ano_formacao": "2015",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -7036,6 +7285,7 @@
         "Thaís Amorim Aragão"
       ],
       "ano_formacao": "2025",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7050,6 +7300,7 @@
         "Savana Diniz Gomes Melo"
       ],
       "ano_formacao": "2015",
+      "website": "https://www.praxis.fae.ufmg.br",
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -7064,6 +7315,7 @@
         "José Angelo Gariglio"
       ],
       "ano_formacao": "2015",
+      "website": "http://grupouniversitatis.wixsite.com/universitatis",
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -7077,6 +7329,7 @@
         "Carlos Fernando Elías Llanos"
       ],
       "ano_formacao": "2022",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7091,6 +7344,7 @@
         "Christian Spencer"
       ],
       "ano_formacao": "2022",
+      "website": "https://www.emac.ufg.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7104,6 +7358,7 @@
         "David Lima Azevedo"
       ],
       "ano_formacao": "2017",
+      "website": "http://cifmc.fis.unb.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7117,6 +7372,7 @@
         "David Lima Azevedo"
       ],
       "ano_formacao": "2017",
+      "website": "http://cifmc.fis.unb.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7130,6 +7386,7 @@
         "Estefânea Élida da Silva Gusmão"
       ],
       "ano_formacao": "2015",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7143,6 +7400,7 @@
         "Paulo César Corrêa Borges"
       ],
       "ano_formacao": "2009",
+      "website": "http://www.netpdh.com.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7156,6 +7414,7 @@
         "Paolla Magioni Santini"
       ],
       "ano_formacao": "2022",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7170,6 +7429,7 @@
         "Lucia Silva Barrenechea"
       ],
       "ano_formacao": "2009",
+      "website": "http://www2.unirio.br/unirio/cla/ivl",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7183,6 +7443,7 @@
         "Pauxy Gentil Nunes Filho"
       ],
       "ano_formacao": "2020",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7197,6 +7458,7 @@
         "Ricardo de Oliveira Thomasi"
       ],
       "ano_formacao": "2012",
+      "website": "http://www.nucleomusicanova.com.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7211,6 +7473,7 @@
         "Adriano Vilela Barbosa"
       ],
       "ano_formacao": "2000",
+      "website": "http://www.cefala.org",
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -7225,6 +7488,7 @@
         "Sergio Freire Garcia"
       ],
       "ano_formacao": "1998",
+      "website": null,
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -7239,21 +7503,9 @@
         "Mauricio Alves Loureiro"
       ],
       "ano_formacao": "2009",
+      "website": "https://www.ufmg.br/ieat/2012/10/centro-de-estudos-do-movimento-expressao-e-comportamento-humanos/",
       "lider_emu": false,
       "grupo_ufmg": true
-    },
-    {
-      "id": "6186610589755034",
-      "nome": "PPPMUS - \"Pérolas\" e \"Pepinos\" da Performance Musical",
-      "situacao": "Excluído",
-      "instituicao": "Universidade Federal de Minas Gerais - UFMG",
-      "unidade": "Departamento de Instrumentos e Canto",
-      "lideres": [
-        "Fausto Borém"
-      ],
-      "ano_formacao": "1994",
-      "lider_emu": true,
-      "grupo_ufmg": false
     },
     {
       "id": "4440597511579689",
@@ -7266,6 +7518,7 @@
         "Mauro Camilo de Chantal Santos"
       ],
       "ano_formacao": "2023",
+      "website": null,
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -7280,6 +7533,7 @@
         "Adriana Giarola Kayama"
       ],
       "ano_formacao": "2011",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7294,6 +7548,7 @@
         "Juliana de Carvalho Starling"
       ],
       "ano_formacao": "2024",
+      "website": "https://www.ia.unesp.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7308,6 +7563,7 @@
         "Rodrigo De Losso da Silveira Bueno"
       ],
       "ano_formacao": "2009",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7322,6 +7578,7 @@
         "Marina Delmondes de Carvalho Rossi"
       ],
       "ano_formacao": "2013",
+      "website": "https://www.EconPolRG.com",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7335,6 +7592,7 @@
         "Vivianne Aparecida Lopes"
       ],
       "ano_formacao": "2019",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7348,6 +7606,7 @@
         "Paula Maria Lima Galama"
       ],
       "ano_formacao": "2021",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7361,6 +7620,7 @@
         "Paula Maria Lima Galama"
       ],
       "ano_formacao": "2021",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7374,6 +7634,7 @@
         "Henrique Maia Lins Vaz"
       ],
       "ano_formacao": "2022",
+      "website": "https://estudio-iad-ufjf.bandcamp.com/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7387,6 +7648,7 @@
         "Marcelino Peixoto de Melo"
       ],
       "ano_formacao": "2018",
+      "website": "http://desenhoeacontecimento.wordpress.com",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7401,6 +7663,7 @@
         "Maya Suemi Lemos"
       ],
       "ano_formacao": "2000",
+      "website": "http://www.unirio.br/musicaurbana",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7415,6 +7678,7 @@
         "Ana Rita Fonteles Duarte"
       ],
       "ano_formacao": "2012",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7429,6 +7693,7 @@
         "Cléria Mendonça de Moraes"
       ],
       "ano_formacao": "2015",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7442,6 +7707,7 @@
         "Renata Coelho Rodrigues Noronha"
       ],
       "ano_formacao": "2024",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7456,6 +7722,7 @@
         "Liz Carmem Silva-Pereira"
       ],
       "ano_formacao": "2011",
+      "website": "https://www.itaituba.ifpa.edu.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7469,6 +7736,7 @@
         "Luanna de Melo Pereira Fernandes"
       ],
       "ano_formacao": "2023",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7483,6 +7751,7 @@
         "Ronilson Freitas de Souza"
       ],
       "ano_formacao": "2015",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7496,6 +7765,7 @@
         "Diego Aires da Silva"
       ],
       "ano_formacao": "2018",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7510,6 +7780,7 @@
         "Luciane de Souza Velasque"
       ],
       "ano_formacao": "2013",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7523,6 +7794,7 @@
         "Luciane de Souza Velasque"
       ],
       "ano_formacao": "2011",
+      "website": "http://www.dme.unirio.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7537,6 +7809,7 @@
         "Francisca Patrícia Barreto de Carvalho"
       ],
       "ano_formacao": "2017",
+      "website": "https://www.uern.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7551,6 +7824,7 @@
         "Fernando de Souza Silva"
       ],
       "ano_formacao": "2010",
+      "website": "https://sigaa.ufrn.br/sigaa/public/docente/portal.jsf?siape=396864",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7565,6 +7839,7 @@
         "Líbne Lidianne da Rocha e Nóbrega"
       ],
       "ano_formacao": "2010",
+      "website": "https://www.uern.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7579,6 +7854,7 @@
         "Lucídio Clebeson de Oliveira"
       ],
       "ano_formacao": "2020",
+      "website": "https://@nupics_uern",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7593,6 +7869,7 @@
         "Johny Carlos de Queiroz"
       ],
       "ano_formacao": "2007",
+      "website": "https://www.uern.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7607,6 +7884,7 @@
         "Miguel Archanjo de Freitas Júnior"
       ],
       "ano_formacao": "2002",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7621,6 +7899,7 @@
         "Cleusa Yoshiko Nagamachi"
       ],
       "ano_formacao": "1983",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7635,6 +7914,7 @@
         "Jose Maria Ximenes Guimarães"
       ],
       "ano_formacao": "2018",
+      "website": "https://www.uece.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7649,6 +7929,7 @@
         "Euzebio Fernandes de Carvalho"
       ],
       "ano_formacao": "2015",
+      "website": "http://www.ueg.br/campuscoracoralina",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7663,6 +7944,7 @@
         "Luciana Viana Amorim"
       ],
       "ano_formacao": "2004",
+      "website": "http://www.dema.ufcg.edu.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7676,6 +7958,7 @@
         "Eduardo Sterzi de Carvalho Júnior"
       ],
       "ano_formacao": "2025",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7690,6 +7973,7 @@
         "Márcio Florentino Pereira"
       ],
       "ano_formacao": "2019",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7704,6 +7988,7 @@
         "Nísio Antônio Teixeira Ferreira"
       ],
       "ano_formacao": "2019",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": true
     },
@@ -7717,6 +8002,7 @@
         "Miriam Hermeto Sá Motta"
       ],
       "ano_formacao": "2008",
+      "website": "https://www.funedi.edu.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7731,6 +8017,7 @@
         "Hila Rodrigues"
       ],
       "ano_formacao": "2009",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7745,6 +8032,7 @@
         "Roberta Jeane Bezerra Jorge"
       ],
       "ano_formacao": "2000",
+      "website": "http://www.lafavet.com.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7759,6 +8047,7 @@
         "Ricardo Alexandre de Freitas Lima"
       ],
       "ano_formacao": "2013",
+      "website": "https://www.iar.unicamp.br+",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7773,6 +8062,7 @@
         "Rodrigo Manoel Frade"
       ],
       "ano_formacao": "2022",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7787,6 +8077,7 @@
         "Raquel Coelho de Souza Lima"
       ],
       "ano_formacao": "2016",
+      "website": "https://www.hhcl.org.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7800,6 +8091,7 @@
         "Augustin Maurice Marie Gondallier de Tugny"
       ],
       "ano_formacao": "2015",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7814,6 +8106,7 @@
         "Kabengele Munanga"
       ],
       "ano_formacao": "2011",
+      "website": "http://www.inctinclusao.com.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7827,6 +8120,7 @@
         "Jose Jorge de Carvalho"
       ],
       "ano_formacao": "2011",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7840,6 +8134,7 @@
         "Thais Giselle Diniz Santos"
       ],
       "ano_formacao": "2024",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7853,6 +8148,7 @@
         "Jose Jorge de Carvalho"
       ],
       "ano_formacao": "2014",
+      "website": "https://www.inctinclusao.com.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7867,6 +8163,7 @@
         "Carla Ladeira Pimentel Águas"
       ],
       "ano_formacao": "2014",
+      "website": "https://www.inctinclusao.com.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7881,6 +8178,7 @@
         "Kristine Sue Stenzel"
       ],
       "ano_formacao": "2012",
+      "website": "http://nupeli-gela.weebly.com/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7895,6 +8193,7 @@
         "Rogério Ferreira"
       ],
       "ano_formacao": "2015",
+      "website": "https://mat.ufg.br",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7908,6 +8207,7 @@
         "Francisco Antonio Nunes Neto"
       ],
       "ano_formacao": "2015",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7922,6 +8222,7 @@
         "Stefano Paschoal"
       ],
       "ano_formacao": "2014",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7935,6 +8236,7 @@
         "Rosiane Lemos Vianna"
       ],
       "ano_formacao": "2014",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7949,6 +8251,7 @@
         "Caio de Souza"
       ],
       "ano_formacao": "2024",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7963,6 +8266,7 @@
         "Leonardo Pellegrim Sanchez"
       ],
       "ano_formacao": "2021",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7977,6 +8281,7 @@
         "Robson Sávio Reis Souza"
       ],
       "ano_formacao": "2012",
+      "website": "https://www.pucminas.br/ppgcr",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -7990,6 +8295,7 @@
         "Thais Fernanda Vicente Rabelo Maciel"
       ],
       "ano_formacao": "2023",
+      "website": "https://www.ufs.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -8004,6 +8310,7 @@
         "Anamaria Gonçalves Bueno de Freitas"
       ],
       "ano_formacao": "2016",
+      "website": "https://@gephed.ufs",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -8017,6 +8324,7 @@
         "Wesley Faria Gomes"
       ],
       "ano_formacao": "2006",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -8031,6 +8339,7 @@
         "Mackely Ribeiro Borges"
       ],
       "ano_formacao": "2009",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -8044,6 +8353,7 @@
         "Rogério Rodrigues"
       ],
       "ano_formacao": "2004",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -8057,6 +8367,7 @@
         "Manuel Silveira Falleiros"
       ],
       "ano_formacao": "2021",
+      "website": "https://www.manufalleiros.com",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -8071,6 +8382,7 @@
         "Catariny Cabral Aleman"
       ],
       "ano_formacao": "2016",
+      "website": "http://www.gesai.ufv.br/",
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -8085,6 +8397,7 @@
         "Alexandre Barcellos Dalri"
       ],
       "ano_formacao": "2014",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     },
@@ -8099,6 +8412,7 @@
         "Demetrius David da Silva"
       ],
       "ano_formacao": "1993",
+      "website": "https://www.ufv.br/dea/gprh",
       "lider_emu": false,
       "grupo_ufmg": false
     }
@@ -9068,6 +9382,55 @@
       "grupo_id": "5008796127366033",
       "relacao": "membro",
       "modo_busca": "estudante",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_5589268218426587",
+      "grupo_id": "5538435309307834",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_5589268218426587",
+      "grupo_id": "2004601541355200",
+      "relacao": "lider",
+      "modo_busca": "pesquisador",
+      "atual": false
+    },
+    {
+      "pessoa_id": "p_5589268218426587",
+      "grupo_id": "9370379010803581",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_5589268218426587",
+      "grupo_id": "9600144615619169",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": false
+    },
+    {
+      "pessoa_id": "p_5589268218426587",
+      "grupo_id": "1792711353999392",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_5589268218426587",
+      "grupo_id": "6186610589755034",
+      "relacao": "lider",
+      "modo_busca": "pesquisador",
+      "atual": false
+    },
+    {
+      "pessoa_id": "p_5589268218426587",
+      "grupo_id": "0356347582179974",
+      "relacao": "lider",
+      "modo_busca": "pesquisador",
       "atual": true
     },
     {
