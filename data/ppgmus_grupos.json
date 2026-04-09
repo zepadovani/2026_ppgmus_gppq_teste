@@ -77,9 +77,9 @@
     {
       "id": "p_1034829799063768",
       "nome": "Alexandra M. S. RICARDO",
-      "rotulo": "Discente",
+      "rotulo": "Egresso",
       "rotulos": [
-        "Discente"
+        "Egresso"
       ],
       "id_lattes": "1034829799063768",
       "grupos": [
@@ -501,6 +501,20 @@
       "nivel": "doutorado"
     },
     {
+      "id": "p_3393134676493908",
+      "nome": "Arícia M. FERIGATO",
+      "rotulo": "Egresso",
+      "rotulos": [
+        "Egresso"
+      ],
+      "id_lattes": "3393134676493908",
+      "grupos": [
+        "3032229122843450",
+        "4452007973688041"
+      ],
+      "nivel": "doutorado"
+    },
+    {
       "id": "p_5890646434518799",
       "nome": "Ariomester N. DANIEL",
       "rotulo": "Discente",
@@ -679,9 +693,9 @@
     {
       "id": "p_4346581838045021",
       "nome": "Caio C. CAMPOS",
-      "rotulo": "Discente",
+      "rotulo": "Egresso",
       "rotulos": [
-        "Discente"
+        "Egresso"
       ],
       "id_lattes": "4346581838045021",
       "grupos": [
@@ -815,6 +829,19 @@
       "nivel": "mestrado"
     },
     {
+      "id": "p_4047319325134109",
+      "nome": "Carlos W. S. FREITAS",
+      "rotulo": "Egresso",
+      "rotulos": [
+        "Egresso"
+      ],
+      "id_lattes": "4047319325134109",
+      "grupos": [
+        "3456831255539641"
+      ],
+      "nivel": "mestrado"
+    },
+    {
       "id": "p_4522210315217955",
       "nome": "Caroline S. PERES",
       "rotulo": "Discente|Egresso",
@@ -882,6 +909,17 @@
         "1769060738743924",
         "1957139244846306"
       ],
+      "nivel": "doutorado"
+    },
+    {
+      "id": "p_2620589959761917",
+      "nome": "C.G Delmonaco",
+      "rotulo": "Egresso",
+      "rotulos": [
+        "Egresso"
+      ],
+      "id_lattes": "2620589959761917",
+      "grupos": [],
       "nivel": "doutorado"
     },
     {
@@ -997,9 +1035,10 @@
     {
       "id": "p_1034934507515054",
       "nome": "Daniel M. L. TAMIETTI",
-      "rotulo": "Discente",
+      "rotulo": "Discente|Egresso",
       "rotulos": [
-        "Discente"
+        "Discente",
+        "Egresso"
       ],
       "id_lattes": "1034934507515054",
       "grupos": [],
@@ -1017,6 +1056,22 @@
         "0714517700148858"
       ],
       "nivel": "doutorado"
+    },
+    {
+      "id": "p_4928013257795990",
+      "nome": "Débora Line GOMES",
+      "rotulo": "Egresso",
+      "rotulos": [
+        "Egresso"
+      ],
+      "id_lattes": "4928013257795990",
+      "grupos": [
+        "3032229122843450",
+        "4452007973688041",
+        "9729607003871586",
+        "1116471307532568"
+      ],
+      "nivel": "mestrado"
     },
     {
       "id": "p_2047103948055387",
@@ -1225,9 +1280,9 @@
     {
       "id": "p_9469744745001985",
       "nome": "Everton A. SILVA",
-      "rotulo": "Discente",
+      "rotulo": "Egresso",
       "rotulos": [
-        "Discente"
+        "Egresso"
       ],
       "id_lattes": "9469744745001985",
       "grupos": [
@@ -1251,11 +1306,25 @@
       "nivel": "doutorado"
     },
     {
+      "id": "p_4987262338402873",
+      "nome": "Fábio Nery SOUZA",
+      "rotulo": "Egresso",
+      "rotulos": [
+        "Egresso"
+      ],
+      "id_lattes": "4987262338402873",
+      "grupos": [
+        "1957410993856359",
+        "5494091059134822"
+      ],
+      "nivel": "doutorado"
+    },
+    {
       "id": "p_1692124720869623",
       "nome": "Fabrício M. ALVES",
-      "rotulo": "Discente",
+      "rotulo": "Egresso",
       "rotulos": [
-        "Discente"
+        "Egresso"
       ],
       "id_lattes": "1692124720869623",
       "grupos": [
@@ -1291,6 +1360,20 @@
       ],
       "id_lattes": "4426470245932190",
       "grupos": [],
+      "nivel": "doutorado"
+    },
+    {
+      "id": "p_5168661325192818",
+      "nome": "Felipe N. RICARDO",
+      "rotulo": "Egresso",
+      "rotulos": [
+        "Egresso"
+      ],
+      "id_lattes": "5168661325192818",
+      "grupos": [
+        "5585943358838943",
+        "5494091059134822"
+      ],
       "nivel": "doutorado"
     },
     {
@@ -2015,9 +2098,9 @@
     {
       "id": "p_7281548947953772",
       "nome": "Jéssica MARTELLI",
-      "rotulo": "Discente",
+      "rotulo": "Egresso",
       "rotulos": [
-        "Discente"
+        "Egresso"
       ],
       "id_lattes": "7281548947953772",
       "grupos": [
@@ -2098,6 +2181,19 @@
       ],
       "id_lattes": "8662889784036432",
       "grupos": [],
+      "nivel": "mestrado"
+    },
+    {
+      "id": "p_6606830027233798",
+      "nome": "João Paulo PRAZERES",
+      "rotulo": "Egresso",
+      "rotulos": [
+        "Egresso"
+      ],
+      "id_lattes": "6606830027233798",
+      "grupos": [
+        "5862938697246050"
+      ],
       "nivel": "mestrado"
     },
     {
@@ -2459,9 +2555,10 @@
     {
       "id": "p_0374350639651848",
       "nome": "Lenilce S. R. SANTANA",
-      "rotulo": "Discente",
+      "rotulo": "Discente|Egresso",
       "rotulos": [
-        "Discente"
+        "Discente",
+        "Egresso"
       ],
       "id_lattes": "0374350639651848",
       "grupos": [
@@ -2483,9 +2580,9 @@
     {
       "id": "p_9278950833833080",
       "nome": "Leonardo S. PEDRO",
-      "rotulo": "Discente",
+      "rotulo": "Egresso",
       "rotulos": [
-        "Discente"
+        "Egresso"
       ],
       "id_lattes": "9278950833833080",
       "grupos": [],
@@ -2761,6 +2858,21 @@
       "nivel": null
     },
     {
+      "id": "p_9482569745798601",
+      "nome": "Luciana MONTEIRO DE CASTRO",
+      "rotulo": "Docente",
+      "rotulos": [
+        "Docente"
+      ],
+      "id_lattes": "9482569745798601",
+      "grupos": [
+        "6555194010132305",
+        "3975186280577145",
+        "1957139244846306"
+      ],
+      "nivel": null
+    },
+    {
       "id": "p_2195964474920848",
       "nome": "Luciano B. CARNEIRO",
       "rotulo": "Discente",
@@ -2886,6 +2998,17 @@
       "nivel": "doutorado"
     },
     {
+      "id": "p_0333224586774086",
+      "nome": "Marcelle A. R. R. CHAGAS",
+      "rotulo": "Egresso",
+      "rotulos": [
+        "Egresso"
+      ],
+      "id_lattes": "0333224586774086",
+      "grupos": [],
+      "nivel": "mestrado"
+    },
+    {
       "id": "p_6545517816713425",
       "nome": "Marcelo C. G. SANTOS",
       "rotulo": "Discente",
@@ -2995,6 +3118,19 @@
       "nivel": "doutorado"
     },
     {
+      "id": "p_2550407004782859",
+      "nome": "Marcus V. S. EVANGELISTA",
+      "rotulo": "Egresso",
+      "rotulos": [
+        "Egresso"
+      ],
+      "id_lattes": "2550407004782859",
+      "grupos": [
+        "0077977989261277"
+      ],
+      "nivel": "doutorado"
+    },
+    {
       "id": "p_0138618629800158",
       "nome": "Marcus V. S. MONTEIRO",
       "rotulo": "Egresso",
@@ -3068,12 +3204,13 @@
     {
       "id": "p_6417425249982432",
       "nome": "Maria T. S. NEVES",
-      "rotulo": "Discente",
+      "rotulo": "Egresso",
       "rotulos": [
-        "Discente"
+        "Egresso"
       ],
       "id_lattes": "6417425249982432",
       "grupos": [
+        "3456831255539641",
         "7452588055040786",
         "6736555048758906"
       ],
@@ -3168,6 +3305,22 @@
       "id_lattes": "0971644177144571",
       "grupos": [],
       "nivel": "mestrado"
+    },
+    {
+      "id": "p_8685276041523131",
+      "nome": "Matheus S. ROCHA",
+      "rotulo": "Egresso",
+      "rotulos": [
+        "Egresso"
+      ],
+      "id_lattes": "8685276041523131",
+      "grupos": [
+        "6287700312093767",
+        "8893552150436966",
+        "4653668514782474",
+        "5008796127366033"
+      ],
+      "nivel": "doutorado"
     },
     {
       "id": "p_1547917075728971",
@@ -3905,9 +4058,10 @@
     {
       "id": "p_9308488688180252",
       "nome": "Rodrigo M. FRADE",
-      "rotulo": "Docente",
+      "rotulo": "Docente|Egresso",
       "rotulos": [
-        "Docente"
+        "Docente",
+        "Egresso"
       ],
       "id_lattes": "9308488688180252",
       "grupos": [
@@ -3915,7 +4069,7 @@
         "0077977989261277",
         "4773924037692564"
       ],
-      "nivel": null
+      "nivel": "doutorado"
     },
     {
       "id": "p_0804590110405416",
@@ -3967,6 +4121,19 @@
       ],
       "id_lattes": "2906261246603991",
       "grupos": [],
+      "nivel": "mestrado"
+    },
+    {
+      "id": "p_9009842168596193",
+      "nome": "Roger D. SCHENA",
+      "rotulo": "Egresso",
+      "rotulos": [
+        "Egresso"
+      ],
+      "id_lattes": "9009842168596193",
+      "grupos": [
+        "1957410993856359"
+      ],
       "nivel": "mestrado"
     },
     {
@@ -4075,12 +4242,17 @@
     {
       "id": "p_2325795971330200",
       "nome": "Samuel M. FAGUNDES",
-      "rotulo": "Discente",
+      "rotulo": "Egresso",
       "rotulos": [
-        "Discente"
+        "Egresso"
       ],
       "id_lattes": "2325795971330200",
-      "grupos": [],
+      "grupos": [
+        "5585943358838943",
+        "9986868050016587",
+        "3874612524577852",
+        "5494091059134822"
+      ],
       "nivel": "doutorado"
     },
     {
@@ -4244,9 +4416,9 @@
     {
       "id": "p_7829182552621950",
       "nome": "Talmer R. R. OLIVEIRA",
-      "rotulo": "Discente",
+      "rotulo": "Egresso",
       "rotulos": [
-        "Discente"
+        "Egresso"
       ],
       "id_lattes": "7829182552621950",
       "grupos": [
@@ -4332,6 +4504,17 @@
         "Egresso"
       ],
       "id_lattes": "8874914901979996",
+      "grupos": [],
+      "nivel": "mestrado"
+    },
+    {
+      "id": "p_0505223365242940",
+      "nome": "Thiago Diniz G. LIMA",
+      "rotulo": "Egresso",
+      "rotulos": [
+        "Egresso"
+      ],
+      "id_lattes": "0505223365242940",
       "grupos": [],
       "nivel": "mestrado"
     },
@@ -4467,6 +4650,17 @@
       "nivel": "mestrado"
     },
     {
+      "id": "p_0403953583302548",
+      "nome": "Vitor D. OLIVEIRA",
+      "rotulo": "Egresso",
+      "rotulos": [
+        "Egresso"
+      ],
+      "id_lattes": "0403953583302548",
+      "grupos": [],
+      "nivel": "doutorado"
+    },
+    {
       "id": "p_9393480660650652",
       "nome": "Wallace MOURA",
       "rotulo": "Discente",
@@ -4504,6 +4698,17 @@
     {
       "id": "p_9461605123679654",
       "nome": "Welissa L. SALIBA",
+      "rotulo": "Egresso",
+      "rotulos": [
+        "Egresso"
+      ],
+      "id_lattes": "9461605123679654",
+      "grupos": [],
+      "nivel": "doutorado"
+    },
+    {
+      "id": "p_9461605123679654",
+      "nome": "Welissa L. SALIBA",
       "rotulo": "Discente|Egresso",
       "rotulos": [
         "Discente",
@@ -4516,6 +4721,17 @@
         "9231386279809683"
       ],
       "nivel": "doutorado"
+    },
+    {
+      "id": "p_3337494448838097",
+      "nome": "Wendy K. L. FERNANDES",
+      "rotulo": "Egresso",
+      "rotulos": [
+        "Egresso"
+      ],
+      "id_lattes": "3337494448838097",
+      "grupos": [],
+      "nivel": null
     },
     {
       "id": "p_5686440703188985",
@@ -5111,6 +5327,20 @@
       "grupo_ufmg": false
     },
     {
+      "id": "3032229122843450",
+      "nome": "CEGeME - Centro de Estudos do Gesto Musical e Expressão",
+      "situacao": "Excluído",
+      "instituicao": "Universidade Federal de Minas Gerais - UFMG",
+      "unidade": "Escola de Música",
+      "lideres": [
+        "Mauricio Alves Loureiro"
+      ],
+      "ano_formacao": "1998",
+      "website": "http://musica.ufmg.br/cegeme/",
+      "lider_emu": true,
+      "grupo_ufmg": false
+    },
+    {
       "id": "4199479350648124",
       "nome": "GeNeC - UFMG - Grupo de Estudo em Neurociência Comportamental e Molecular",
       "situacao": "Excluído",
@@ -5532,20 +5762,6 @@
       "ano_formacao": "2021",
       "website": null,
       "lider_emu": false,
-      "grupo_ufmg": false
-    },
-    {
-      "id": "3032229122843450",
-      "nome": "CEGeME - Centro de Estudos do Gesto Musical e Expressão",
-      "situacao": "Excluído",
-      "instituicao": "Universidade Federal de Minas Gerais - UFMG",
-      "unidade": "Escola de Música",
-      "lideres": [
-        "Mauricio Alves Loureiro"
-      ],
-      "ano_formacao": "1998",
-      "website": "http://musica.ufmg.br/cegeme/",
-      "lider_emu": true,
       "grupo_ufmg": false
     },
     {
@@ -7463,6 +7679,50 @@
       "grupo_ufmg": false
     },
     {
+      "id": "6287700312093767",
+      "nome": "Grupo de Estudo e Pesquisa em Música - GEPEMUS",
+      "situacao": "Certificado",
+      "instituicao": "Instituto Federal do Ceará - IFCE",
+      "unidade": "",
+      "lideres": [
+        "Lia Raquel Monteiro Santos Venturieri",
+        "George de Almeida Pessoa"
+      ],
+      "ano_formacao": "2025",
+      "website": null,
+      "lider_emu": false,
+      "grupo_ufmg": false
+    },
+    {
+      "id": "8893552150436966",
+      "nome": "LABORATÓRIO DE ENSINO E PESQUISA EM CIÊNCIAS NATURAIS, MATEMÁTICA E MÚSICA",
+      "situacao": "Certificado",
+      "instituicao": "Instituto Federal do Ceará - IFCE",
+      "unidade": "",
+      "lideres": [
+        "Diego Ximenes Macedo"
+      ],
+      "ano_formacao": "2017",
+      "website": null,
+      "lider_emu": false,
+      "grupo_ufmg": false
+    },
+    {
+      "id": "4653668514782474",
+      "nome": "Música: Linguagem e Sociedade",
+      "situacao": "Excluído",
+      "instituicao": "Instituto Federal do Ceará - IFCE",
+      "unidade": "Instituto Federal do Ceará - Campus Fortaleza",
+      "lideres": [
+        "Sabrina Linhares Gomes",
+        "Francisca Antonia Marcilane Gonçalves Cruz"
+      ],
+      "ano_formacao": "2013",
+      "website": "http://www.fortaleza.ifce.edu.br/",
+      "lider_emu": false,
+      "grupo_ufmg": false
+    },
+    {
       "id": "2103246875479507",
       "nome": "CEFALA - Centro de Estudos da Fala, Acústica, Linguagem e Música",
       "situacao": "Em preenchimento",
@@ -8241,6 +8501,21 @@
       "grupo_ufmg": false
     },
     {
+      "id": "3874612524577852",
+      "nome": "NUPHEMA - Núcleo de Pesquisa em História da Educação Musical e Artística.",
+      "situacao": "Excluído",
+      "instituicao": "Conservatório Brasileiro de Música  Centro Universitário - CBM/CEU",
+      "unidade": "",
+      "lideres": [
+        "Ednardo Monteiro Gonzaga do Monti",
+        "Ricardo Martins Porto Lussac"
+      ],
+      "ano_formacao": "2009",
+      "website": null,
+      "lider_emu": false,
+      "grupo_ufmg": false
+    },
+    {
       "id": "8034313894213276",
       "nome": "Observatório Interdisciplinar de Novas Pedagogias e Práticas Musicais (OIPraMUS)",
       "situacao": "Certificado",
@@ -8413,6 +8688,93 @@
       ],
       "ano_formacao": "1993",
       "website": "https://www.ufv.br/dea/gprh",
+      "lider_emu": false,
+      "grupo_ufmg": false
+    },
+    {
+      "id": "0965752327401029",
+      "nome": "LEPOINT - Laboratório de Estudos de Planejamento de Operações Integradas",
+      "situacao": "Certificado",
+      "instituicao": "Universidade Federal de Minas Gerais - UFMG",
+      "unidade": "Escola de Engenharia",
+      "lideres": [
+        "João Flávio de Freitas Almeida",
+        "Lásara Fabricia Rodrigues"
+      ],
+      "ano_formacao": "2025",
+      "website": "https://ppgep.dep.ufmg.br/laboratorios/",
+      "lider_emu": false,
+      "grupo_ufmg": true
+    },
+    {
+      "id": "0482725275946227",
+      "nome": "TEIA - Territórios, Educação Integral e Cidadania",
+      "situacao": "Em preenchimento",
+      "instituicao": "Universidade Federal de Minas Gerais - UFMG",
+      "unidade": "Faculdade de Educação",
+      "lideres": [
+        "Bárbara Bruna Moreira Ramalho",
+        "Levindo Diniz Carvalho"
+      ],
+      "ano_formacao": "2008",
+      "website": "https://teia.fae.ufmg.br/",
+      "lider_emu": false,
+      "grupo_ufmg": true
+    },
+    {
+      "id": "3353915425792631",
+      "nome": "Grupo de Pesquisa Arte & Experimentação",
+      "situacao": "Certificado",
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - IFES",
+      "unidade": "Instituto Federal do Espírito Santo - Campus Colatina",
+      "lideres": [
+        "Ana Claudia Fehelberg Pinto Braga"
+      ],
+      "ano_formacao": "2019",
+      "website": "https://www.ifes.edu.br/",
+      "lider_emu": false,
+      "grupo_ufmg": false
+    },
+    {
+      "id": "1312508434397769",
+      "nome": "Núcleo de Estudos Interdisciplinares em Educação, Ciência e Tecnologia (NEIECT)",
+      "situacao": "Certificado",
+      "instituicao": "Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo - IFES",
+      "unidade": "Instituto Federal do Espírito Santo - Campus Montanha",
+      "lideres": [
+        "Renato Pereira Aurélio",
+        "Patrick Ribeiro do Val"
+      ],
+      "ano_formacao": "2023",
+      "website": null,
+      "lider_emu": false,
+      "grupo_ufmg": false
+    },
+    {
+      "id": "3628509247740638",
+      "nome": "Educação Musical: Diferentes Tempos e Espaços",
+      "situacao": "Certificado",
+      "instituicao": "Universidade Estadual do Rio Grande do Sul - UERGS",
+      "unidade": "",
+      "lideres": [
+        "Cristina Rolim Wolffenbüttel"
+      ],
+      "ano_formacao": "2010",
+      "website": "https://www.educacaomusicaluergs.com/",
+      "lider_emu": false,
+      "grupo_ufmg": false
+    },
+    {
+      "id": "2932567430003741",
+      "nome": "Grupo de Estudos Pedagógicos e Interpretativos Parauara - GEPIP",
+      "situacao": "Certificado",
+      "instituicao": "Universidade Federal do Pará - UFPA",
+      "unidade": "",
+      "lideres": [
+        "Joziely Carmo de Brito"
+      ],
+      "ano_formacao": "2022",
+      "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
     }
@@ -8804,6 +9166,20 @@
       "atual": false
     },
     {
+      "pessoa_id": "p_3393134676493908",
+      "grupo_id": "3032229122843450",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": false
+    },
+    {
+      "pessoa_id": "p_3393134676493908",
+      "grupo_id": "4452007973688041",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": false
+    },
+    {
       "pessoa_id": "p_5890646434518799",
       "grupo_id": "9729607003871586",
       "relacao": "membro",
@@ -9014,6 +9390,13 @@
       "atual": true
     },
     {
+      "pessoa_id": "p_4047319325134109",
+      "grupo_id": "3456831255539641",
+      "relacao": "membro",
+      "modo_busca": "estudante",
+      "atual": true
+    },
+    {
       "pessoa_id": "p_4522210315217955",
       "grupo_id": "0093521133677377",
       "relacao": "membro",
@@ -9217,6 +9600,34 @@
       "atual": true
     },
     {
+      "pessoa_id": "p_4928013257795990",
+      "grupo_id": "3032229122843450",
+      "relacao": "membro",
+      "modo_busca": "estudante",
+      "atual": false
+    },
+    {
+      "pessoa_id": "p_4928013257795990",
+      "grupo_id": "4452007973688041",
+      "relacao": "membro",
+      "modo_busca": "estudante",
+      "atual": false
+    },
+    {
+      "pessoa_id": "p_4928013257795990",
+      "grupo_id": "9729607003871586",
+      "relacao": "membro",
+      "modo_busca": "estudante",
+      "atual": false
+    },
+    {
+      "pessoa_id": "p_4928013257795990",
+      "grupo_id": "1116471307532568",
+      "relacao": "membro",
+      "modo_busca": "estudante",
+      "atual": true
+    },
+    {
       "pessoa_id": "p_2047103948055387",
       "grupo_id": "9729607003871586",
       "relacao": "membro",
@@ -9378,6 +9789,20 @@
       "atual": false
     },
     {
+      "pessoa_id": "p_4987262338402873",
+      "grupo_id": "1957410993856359",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_4987262338402873",
+      "grupo_id": "5494091059134822",
+      "relacao": "membro",
+      "modo_busca": "estudante",
+      "atual": true
+    },
+    {
       "pessoa_id": "p_1692124720869623",
       "grupo_id": "5008796127366033",
       "relacao": "membro",
@@ -9430,6 +9855,20 @@
       "pessoa_id": "p_5589268218426587",
       "grupo_id": "0356347582179974",
       "relacao": "lider",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_5168661325192818",
+      "grupo_id": "5585943358838943",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_5168661325192818",
+      "grupo_id": "5494091059134822",
+      "relacao": "membro",
       "modo_busca": "pesquisador",
       "atual": true
     },
@@ -10099,6 +10538,13 @@
       "atual": true
     },
     {
+      "pessoa_id": "p_6606830027233798",
+      "grupo_id": "5862938697246050",
+      "relacao": "membro",
+      "modo_busca": "estudante",
+      "atual": false
+    },
+    {
       "pessoa_id": "p_1178999682692306",
       "grupo_id": "5862938697246050",
       "relacao": "membro",
@@ -10645,6 +11091,27 @@
       "atual": true
     },
     {
+      "pessoa_id": "p_9482569745798601",
+      "grupo_id": "6555194010132305",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_9482569745798601",
+      "grupo_id": "3975186280577145",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": false
+    },
+    {
+      "pessoa_id": "p_9482569745798601",
+      "grupo_id": "1957139244846306",
+      "relacao": "lider",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
       "pessoa_id": "p_2195964474920848",
       "grupo_id": "3327814737577682",
       "relacao": "membro",
@@ -10834,6 +11301,13 @@
       "atual": false
     },
     {
+      "pessoa_id": "p_2550407004782859",
+      "grupo_id": "0077977989261277",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
       "pessoa_id": "p_7576459260804816",
       "grupo_id": "3456831255539641",
       "relacao": "lider",
@@ -10843,6 +11317,13 @@
     {
       "pessoa_id": "p_7576459260804816",
       "grupo_id": "7452588055040786",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_6417425249982432",
+      "grupo_id": "3456831255539641",
       "relacao": "membro",
       "modo_busca": "pesquisador",
       "atual": true
@@ -10923,6 +11404,34 @@
       "relacao": "membro",
       "modo_busca": "estudante",
       "atual": false
+    },
+    {
+      "pessoa_id": "p_8685276041523131",
+      "grupo_id": "6287700312093767",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_8685276041523131",
+      "grupo_id": "8893552150436966",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_8685276041523131",
+      "grupo_id": "4653668514782474",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": false
+    },
+    {
+      "pessoa_id": "p_8685276041523131",
+      "grupo_id": "5008796127366033",
+      "relacao": "membro",
+      "modo_busca": "estudante",
+      "atual": true
     },
     {
       "pessoa_id": "p_9480268986413015",
@@ -11583,6 +12092,13 @@
       "atual": false
     },
     {
+      "pessoa_id": "p_9009842168596193",
+      "grupo_id": "1957410993856359",
+      "relacao": "membro",
+      "modo_busca": "estudante",
+      "atual": true
+    },
+    {
       "pessoa_id": "p_4255986646659146",
       "grupo_id": "5862938697246050",
       "relacao": "membro",
@@ -11720,6 +12236,34 @@
       "grupo_id": "5862938697246050",
       "relacao": "membro",
       "modo_busca": "estudante",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_2325795971330200",
+      "grupo_id": "5585943358838943",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_2325795971330200",
+      "grupo_id": "9986868050016587",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
+      "pessoa_id": "p_2325795971330200",
+      "grupo_id": "3874612524577852",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": false
+    },
+    {
+      "pessoa_id": "p_2325795971330200",
+      "grupo_id": "5494091059134822",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
       "atual": true
     },
     {
