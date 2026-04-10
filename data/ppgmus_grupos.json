@@ -1120,7 +1120,9 @@
         "Docente"
       ],
       "id_lattes": "7563990293407910",
-      "grupos": [],
+      "grupos": [
+        "5862938697246050"
+      ],
       "nivel": null
     },
     {
@@ -1360,7 +1362,8 @@
       ],
       "id_lattes": "5093257730433744",
       "grupos": [
-        "0077977989261277"
+        "0077977989261277",
+        "5862938697246050"
       ],
       "nivel": "doutorado"
     },
@@ -2882,7 +2885,8 @@
       "id_lattes": "0595654919330234",
       "grupos": [
         "5585943358838943",
-        "5494091059134822"
+        "5494091059134822",
+        "5862938697246050"
       ],
       "nivel": "mestrado"
     },
@@ -4237,7 +4241,9 @@
         "Egresso"
       ],
       "id_lattes": "3897755228481443",
-      "grupos": [],
+      "grupos": [
+        "5862938697246050"
+      ],
       "nivel": "doutorado"
     },
     {
@@ -4744,7 +4750,7 @@
         "José Henrique Padovani Velloso"
       ],
       "ano_formacao": "2021",
-      "website": null,
+      "website": "http://dgp.cnpq.br/dgp/espelhogrupo/;jsessionid=C257276672A3CCFD9E8692D1C90DA991.dgp_0",
       "lider_emu": true,
       "grupo_ufmg": false
     },
@@ -9605,6 +9611,13 @@
       "atual": false
     },
     {
+      "pessoa_id": "p_7563990293407910",
+      "grupo_id": "5862938697246050",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": true
+    },
+    {
       "pessoa_id": "p_3976870085676446",
       "grupo_id": "0714517700148858",
       "relacao": "lider",
@@ -9813,6 +9826,13 @@
       "relacao": "membro",
       "modo_busca": "estudante",
       "atual": true
+    },
+    {
+      "pessoa_id": "p_5093257730433744",
+      "grupo_id": "5862938697246050",
+      "relacao": "membro",
+      "modo_busca": "pesquisador",
+      "atual": false
     },
     {
       "pessoa_id": "p_5828178112680557",
@@ -11068,6 +11088,13 @@
       "atual": true
     },
     {
+      "pessoa_id": "p_0595654919330234",
+      "grupo_id": "5862938697246050",
+      "relacao": "membro",
+      "modo_busca": "estudante",
+      "atual": true
+    },
+    {
       "pessoa_id": "p_9980556632697854",
       "grupo_id": "0794335057715945",
       "relacao": "membro",
@@ -12186,6 +12213,13 @@
       "relacao": "membro",
       "modo_busca": "estudante",
       "atual": true
+    },
+    {
+      "pessoa_id": "p_3897755228481443",
+      "grupo_id": "5862938697246050",
+      "relacao": "membro",
+      "modo_busca": "estudante",
+      "atual": false
     },
     {
       "pessoa_id": "p_9719486329750422",
