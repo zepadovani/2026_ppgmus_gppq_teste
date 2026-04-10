@@ -825,17 +825,6 @@
         "Egresso"
       ],
       "id_lattes": "4047319325134109",
-      "grupos": [],
-      "nivel": "mestrado"
-    },
-    {
-      "id": "p_4047319325134109",
-      "nome": "Carlos W. S. FREITAS",
-      "rotulo": "Egresso",
-      "rotulos": [
-        "Egresso"
-      ],
-      "id_lattes": "4047319325134109",
       "grupos": [
         "3456831255539641"
       ],
@@ -896,20 +885,6 @@
         "1957139244846306"
       ],
       "nivel": null
-    },
-    {
-      "id": "p_2620589959761917",
-      "nome": "Celina DELMONACO",
-      "rotulo": "Egresso",
-      "rotulos": [
-        "Egresso"
-      ],
-      "id_lattes": "2620589959761917",
-      "grupos": [
-        "1769060738743924",
-        "1957139244846306"
-      ],
-      "nivel": "doutorado"
     },
     {
       "id": "p_2620589959761917",
@@ -4683,17 +4658,6 @@
     {
       "id": "p_9461605123679654",
       "nome": "Welissa L. SALIBA",
-      "rotulo": "Egresso",
-      "rotulos": [
-        "Egresso"
-      ],
-      "id_lattes": "9461605123679654",
-      "grupos": [],
-      "nivel": "doutorado"
-    },
-    {
-      "id": "p_9461605123679654",
-      "nome": "Welissa L. SALIBA",
       "rotulo": "Discente|Egresso",
       "rotulos": [
         "Discente",
@@ -5619,20 +5583,6 @@
       "grupo_ufmg": false
     },
     {
-      "id": "1769060738743924",
-      "nome": "Pedagogia e Performance do Canto Artístico",
-      "situacao": "Certificado",
-      "instituicao": "Universidade Estadual de Maringá - UEM",
-      "unidade": "Centro de Ciências Humanas Letras e Artes",
-      "lideres": [
-        "John Kennedy Pereira de Castro"
-      ],
-      "ano_formacao": "2023",
-      "website": null,
-      "lider_emu": false,
-      "grupo_ufmg": false
-    },
-    {
       "id": "4859478945866955",
       "nome": "Ensino e aprendizagem da performance musical",
       "situacao": "Certificado",
@@ -5745,6 +5695,20 @@
         "Adelson de Souza Brito Filho"
       ],
       "ano_formacao": "2021",
+      "website": null,
+      "lider_emu": false,
+      "grupo_ufmg": false
+    },
+    {
+      "id": "1769060738743924",
+      "nome": "Pedagogia e Performance do Canto Artístico",
+      "situacao": "Certificado",
+      "instituicao": "Universidade Estadual de Maringá - UEM",
+      "unidade": "Centro de Ciências Humanas Letras e Artes",
+      "lideres": [
+        "John Kennedy Pereira de Castro"
+      ],
+      "ano_formacao": "2023",
       "website": null,
       "lider_emu": false,
       "grupo_ufmg": false
@@ -9435,20 +9399,6 @@
       "grupo_id": "1957139244846306",
       "relacao": "membro",
       "modo_busca": "pesquisador",
-      "atual": true
-    },
-    {
-      "pessoa_id": "p_2620589959761917",
-      "grupo_id": "1769060738743924",
-      "relacao": "membro",
-      "modo_busca": "pesquisador",
-      "atual": true
-    },
-    {
-      "pessoa_id": "p_2620589959761917",
-      "grupo_id": "1957139244846306",
-      "relacao": "membro",
-      "modo_busca": "estudante",
       "atual": true
     },
     {
